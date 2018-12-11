@@ -1,0 +1,663 @@
+{
+  "nonetwork": "Không có kết nối Internet",
+  "buttonText": "KHÁM PHÁ",
+  "headerTitles": {
+    "description": "MÔ TẢ",
+    "location": "VỊ TRÍ",
+    "menu": "THỰC ĐƠN",
+    "food": "ẨM THỰC HỘI AN",
+    "hotel": "KHÁCH SẠN HỘI AN",
+    "place": "ĐỊA ĐIỂM HỘI AN",
+    "shop": "CỬA HIỆU HỘI AN"
+  },
+  "category": {
+    "food": {
+      "title": "Ẩm thực ở Hội An",
+      "desc": "Hội An không chỉ nổi tiếng với vẻ đẹp cổ xưa mà còn với nền ẩm thực đặc trưng riêng.",
+      "more_places": "HƠN 7+ ĐỊA ĐIỂM",
+      "more_info": [
+        {
+          "name": "Nhà hàng Temple",
+          "loc": {
+            "lat": 15.880014,
+            "long": 108.316384
+          },
+          "location": "132 Hùng Vương, Phường Cẩm Phổ, Hội An, Quảng Nam, Việt Nam",
+          "image": "temple",
+          "rating": "5.0",
+          "peoplerated": "111",
+          "type": "Cao cấp",
+          "desc": "Lấy cảm hứng từ Tây Âu và ẩm thực quốc tế, nhà hàng của chúng tôi bao gồm sự đa dạng ẩm thực từ khắp nơi trên thế giới.",
+          "phone": "+84 93 818 58 04",
+          "cost": "$$$$",
+          "menu": "Quầy bar, đồ ăn nhanh, quán rượu, đồ ăn chay và các món ăn không chứa Gluten.",
+          "times": "6:00 AM - 11:00 PM"
+        },
+        {
+          "name": "Nhà hàng Aubergine49",
+          "loc": {
+            "lat": 15.883697,
+            "long": 108.335575
+          },
+          "location": "49 Lý Thái Tổ, Sơn Phong, Hội An, Quảng Nam, Việt Nam",
+          "image": "aubergine49",
+          "rating": "4.5",
+          "peoplerated": "444",
+          "type": "Cao cấp",
+          "desc": "Aubergine49 là một nhà hàng hiện đại theo phong cách châu Âu nằm cách phố cổ Hội An không xa. Tại đây, chúng tôi sẽ mang lại cho bạn những trải nghiệm ẩm thực chất lượng nhất. Từ các sản phẩm có nguồn gốc địa phương cho đến các nguyên liệu nhập khẩu tốt nhất, chúng tôi tự hào giới thiệu cho bạn các món ăn lấy cảm hứng từ Âu Á của chúng tôi.",
+          "phone": "+84 235 2212 190",
+          "cost": "$$$$",
+          "menu": "Phục vụ các món ăn Pháp, châu Âu, châu Á. Phù hợp với người ăn chay, các món ăn không chứa Gluten",
+          "times": "6:00 AM - 10:00 PM"
+        },
+        {
+          "name": "Nhà hàng Herb & Spices",
+          "loc": {
+            "lat": 15.879611,
+            "long": 108.328534
+          },
+          "location": "2/6 Lê Lợi, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
+          "image": "herbs",
+          "rating": "5.0",
+          "peoplerated": "1012",
+          "type": "Trung cấp",
+          "desc": "Đến Hội An, bạn hãy thử trải nghiệm ẩm thực ở Herbs and Spices. Tại đây, bạn sẽ được hướng dẫn cách nấu các món ăn, sau đó thưởng thức các món do chính mình nấu, thật tuyệt vời phải không nào. Nhà hàng đẹp, món ăn ngon, nhân viên rất tận tình, chu đáo. Có lối ra vào cho xe lăn, phục vụ đồ uống có cồn, Wifi miễn phí.",
+          "phone": "+84 510 3936 886",
+          "cost": "$$",
+          "menu": "Châu Á, Việt Nam, món kết hợp. Phù hợp với người ăn chay, các món không chứa Gluten.",
+          "times": "6:00 AM - 10:00 PM"
+        },
+        {
+          "name": "Quán bar Shore Club bãi biển An Bàng",
+          "loc": {
+            "lat": 15.913791,
+            "long": 108.340795
+          },
+          "location": "Hai Bà Trưng, Quảng Nam, Việt Nam",
+          "image": "shore",
+          "rating": "5.0",
+          "peoplerated": "313",
+          "type": "Trung cấp",
+          "desc": "Với khung cảnh biển lãng mạn, cùng với những món hấp dẫn sẽ đánh thức vị giác của bạn.",
+          "phone": "+84 120 460 4861",
+          "cost": "$$",
+          "menu": "Phục vụ các món ăn quốc tế, Việt Nam, hải sản, món kết hợp. Phù hợp với người ăn chay, các món không chứa Gluten.",
+          "times": "7:00 AM - 11:00 PM"
+        },
+        {
+          "name": "Chuỗi nhà hàng và cà phê Tuấn",
+          "loc": {
+            "lat": 15.876412,
+            "long": 108.346173
+          },
+          "location": "170 Trần Nhân Tông, Cẩm Châu, Hội An, Quảng Nam , Việt Nam",
+          "image": "cafe",
+          "rating": "5.0",
+          "peoplerated": "1343",
+          "type": "Bình dân",
+          "desc": "Hãy đến và dùng bữa tại Nhà hàng & Cafe Tuấn. Chúng tôi cung cấp một loạt các món ăn ngon từ châu Âu và các món địa phương. Ngoài ra, chúng tôi còn phục vụ pizza, bánh mì kẹp thịt và hơn thế nữa!",
+          "phone": "+84 90 570 66 74",
+          "cost": "$",
+          "menu": "Phục vụ các món Ý, châu Âu và Việt Nam. Ngoài ra còn có món chay, món ăn không chứa Gluten, có pizza và cả quán bar.",
+          "times": "12:00 PM - 9:00 PM"
+        },
+        {
+          "name": "Chuỗi nhà hàng và quán bar Simple (Góc bếp của Rose)",
+          "loc": {
+            "lat": 15.889468,
+            "long": 108.377787
+          },
+          "location": "Âu Cơ, Cửa Đại, Hội An, Quảng Nam, Việt Nam",
+          "image": "simple",
+          "rating": "5.0",
+          "peoplerated": "105",
+          "type": "Bình dân",
+          "desc": "Nhà hàng có không gian ẩm thực tuyệt vời với sự kết hợp tuyệt vời giữa văn hóa ẩm thực châu Á và hương vị của ẩm thực Việt Nam.",
+          "phone": "+84 166 951 1881",
+          "cost": "$",
+          "menu": "Phục vụ các món Ý, châu Âu và Việt Nam. Ngoài ra còn có món chay, món không chứa Gluten, có pizza và quán bar.",
+          "times": "11:00 AM - 10:00 PM"
+        },
+        {
+          "name": "Cà phê Rosie",
+          "loc": {
+            "lat": 15.877663,
+            "long": 108.325648
+          },
+          "location": "8/6 Nguyễn Thị Minh Khai, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
+          "image": "frenchBakery",
+          "rating": "5.0",
+          "peoplerated": "512",
+          "type": "Ăn sáng",
+          "desc": "Quán đẹp, nằm trong đường vô phố cổ rất dễ tìm. Đồ uống ngon, giá phải chăng khoảng từ 30-50k. Khách Tây khá nhiều thích hợp cho bạn nào muốn trao dồi tiếng Anh.",
+          "phone": "+84 90 531 24 33",
+          "cost": "$",
+          "menu": "Phục vụ cafe, các món ăn tốt cho sức khỏe, phù hợp với người ăn chay, các món ăn không chứa Gluten.",
+          "times": "9:00 AM - 5:00 PM"
+        },
+        {
+          "name": "Nhà hàng và tiệm bánh Pháp",
+          "loc": {
+            "lat": 15.913642,
+            "long": 108.336849
+          },
+          "location": "Cẩm An, Hội An, tỉnh Quảng Nam, Việt Nam",
+          "image": "rosie",
+          "rating": "4.5",
+          "peoplerated": "310",
+          "type": "Ăn sáng",
+          "desc": "Ẩm thực Pháp và Việt Nam được phục vụ trong khung cảnh ngoài trời. Nhà hàng chúng tôi phục vụ sáng, trưa và cả tối.",
+          "phone": "+84 128 868 9643",
+          "cost": "$",
+          "menu": "Phục vụ các món Pháp và Việt Nam. Ngoài ra còn có món chay, món không chứa Gluten, pizza và cà phê",
+          "times": "7:00 AM - 9:00 PM"
+        },
+        {
+          "name": "Lớp nấu ăn và nhà hàng Trà Quế Garden",
+          "loc": {
+            "lat": 15.901926,
+            "long": 108.339727
+          },
+          "location": "Hai Bà Trưng, Cẩm Hà, Hội An, Quảng Nam, Việt Nam",
+          "image": "traQue",
+          "rating": "5.0",
+          "peoplerated": "276",
+          "type": "Địa phương",
+          "desc": "Hãy dành một nửa ngày để sống, làm việc và nấu ăn với người dân địa phương trong làng rau hữu cơ. Đó sẽ là cơ hội tuyệt vời để bạn khám phá cuộc sống hàng ngày của nông dân và trở thành một “đầu bếp địa phương”!",
+          "phone": "+84 90 286 66 03",
+          "cost": "$",
+          "menu": "Phục vụ các món châu Á và Việt Nam. Ngoài ra còn có món chay, món ăn không chứa Gluten, pizza và bar.",
+          "times": "9:00 AM - 4:00 PM"
+        },
+        {
+          "name": "Nhà hàng Nhan's Kitchen",
+          "loc": {
+            "lat": 15.878034,
+            "long": 108.345139
+          },
+          "location": "167 Trần Nhân Tông, Cẩm Châu, Hội An, Quảng Nam, Việt Nam",
+          "image": "nhans",
+          "rating": "5.0",
+          "peoplerated": "731",
+          "type": "Địa phương",
+          "desc": "Ở Hội An, các nhà hàng với giá rẻ hơn thường có phần bánh pizza lớn. Các đơn đặt hàng này được ký hợp đồng phụ cho các bên thứ ba. Nhan’s Kitchen làm ra những chiếc pizza theo công thức riêng của họ. Hãy thử Four Cheeses Pizza với kích cỡ lớn chỉ với giá 80.000 đồng!",
+          "phone": "+84 90 518 68 67",
+          "cost": "$",
+          "menu": "Phục vụ các món Ý, châu Á và Việt Nam. Ngoài ra còn có món chay, món ăn không chứa Gluten, pizza và bar.",
+          "times": "12:00 PM - 9:00 PM"
+        }
+      ]
+    },
+    "place": {
+      "title": "Điểm đến ở Hội An",
+      "desc": "Hội An có rất nhiều nơi để tận hưởng và khám phá. Bạn sẽ không hối hận khi đến đây.",
+      "more_places": "HƠN 7+ ĐỊA ĐIỂM",
+      "more_info": [
+        {
+          "name": "Bãi biển An Bàng",
+          "loc": {
+            "lat": 15.913796,
+            "long": 108.3386063
+          },
+          "location": "Hai Bà Trưng, Quảng Nam, Việt Nam",
+          "image": "anBang",
+          "rating": "5.0",
+          "peoplerated": "135",
+          "type": "Bờ biển",
+          "desc": "Bãi biển yên tĩnh, rợp bóng cây và cát trắng với những dãy ghế dài và quán ăn."
+        },
+        {
+          "name": "Hội quán Phúc Kiến",
+          "loc": {
+            "lat": 15.877512,
+            "long": 108.330547
+          },
+          "location": "46 Trần Phú, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
+          "image": "fujian",
+          "rating": "4.0",
+          "peoplerated": "808",
+          "type": "Điểm du lịch",
+          "desc": "Hội quán Phúc Kiến được xây dựng vào năm 1697 bởi những thương gia người Phúc Kiến. Hội quán là nơi thờ các vị thần bảo hộ về sông nước, tiền của, con cái. Đây cũng là nơi hội họp đồng hương của những người Phúc Kiến. Nơi đây nổi tiếng với lối kiến trúc cổ và ngôi Chính điện thờ Thiên hậu Thánh Mẫu (bà chúa phù hộ cho thương nhân vượt sóng gió ngoài biển khơi)."
+        },
+        {
+          "name": "Trung tâm biểu diễn Lune Hội An",
+          "loc": {
+            "lat": 15.875217,
+            "long": 108.328802
+          },
+          "location": "Công viên Đồng Hiệp, Phố cổ, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
+          "image": "lune",
+          "rating": "4.5",
+          "peoplerated": "20273",
+          "type": "Điểm du lịch",
+          "desc": "Trung Tâm Biểu Diễn Lune Hội An là điểm đến mới không thể bỏ qua cho khách thập phương ghé thăm phố Hội và cả những người bản xứ vốn giàu chất 'nghệ'."
+        },
+        {
+          "name": "Chùa Vạn Đức",
+          "loc": {
+            "lat": 15.904602,
+            "long": 108.321793
+          },
+          "location": "Cẩm Hà, Hội An, Quảng Nam, Việt Nam",
+          "image": "vanDuc",
+          "rating": "4.5",
+          "peoplerated": "40",
+          "type": "Điểm du lịch",
+          "desc": "Văn Đức, một trong những ngôi chùa lớn nhất ở Hội An, là nơi sẽ mang cho bạn chuyến tham thú vị để khám phá nét văn hóa trong đời sống tôn giáo của người dân địa phương."
+        },
+        {
+          "name": "Chùa Cầu",
+          "loc": {
+            "lat": 15.877118,
+            "long": 108.326104
+          },
+          "location": "Nguyễn Thị Minh Khai, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
+          "image": "japaneseBridge",
+          "rating": "4.0",
+          "peoplerated": "7504",
+          "type": "Điểm du lịch",
+          "desc": "Chùa Cầu được xây dựng trên cây cầu bắc qua một con lạch nhỏ. Đây một trong những di tích có kiến trúc khá đặc biệt. Kết cấu kiến trúc và trang trí nội thất của chùa mang đậm dấu ấn của nền văn hóa Phù Tang. Đây là một trong những điểm tham quan được nhiều du khách ưa thích khi đến với Hội An."
+        },
+        {
+          "name": "Nhà cổ Phùng Hưng",
+          "loc": {
+            "lat": 15.877192,
+            "long": 108.325801
+          },
+          "location": "4 Nguyễn Thị Minh Khai, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
+          "image": "oldHouse",
+          "rating": "3.5",
+          "peoplerated": "414",
+          "type": "Điểm du lịch",
+          "desc": "Với tuổi thọ hơn 100 năm, nhà Phùng Hưng có kết cấu độc đáo với phần gác cao bằng gỗ và các hành lang rộng bao quanh, thể hiện sự phát triển về kiến trúc và sự giao lưu giữa các phong cách kiến trúc Á Đông tại Hội An trong các thế kỷ trước đây."
+        },
+        {
+          "name": "Làng Rau Trà Quế",
+          "loc": {
+            "lat": 15.902439,
+            "long": 108.337633
+          },
+          "location": "Cẩm Hà, Hội An, Quảng Nam",
+          "image": "traQue",
+          "rating": "4.5",
+          "peoplerated": "494",
+          "type": "Điểm du lịch",
+          "desc": "Trà Quế là một ngôi làng nhỏ duyên dáng ở rìa của Hội An, ngôi làng được đặt theo tên của các loại rau thơm ngọt ngào mà gia vị cho bữa ăn hàng ngày của người dân Phố Hội. Một ngày sống và làm việc với người dân địa phương tại làng rau Trà Quế, nơi bạn sẽ có cơ hội khám phá cuộc sống hàng ngày của người nông dân."
+        },
+        {
+          "name": "Bảo tàng lịch sử văn hóa Hội An",
+          "loc": {
+            "lat": 15.880269,
+            "long": 108.329463
+          },
+          "location": "10B Trần Hưng Đạo, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
+          "image": "history",
+          "rating": "3.0",
+          "peoplerated": "111",
+          "type": "Viện bảo tàng",
+          "desc": "Với những hiện vật khảo cổ được phát hiện ở Hội An, bảo tàng Lịch Sử Văn Hoá là minh chứng sinh động về lịch sử hình thành, phát triển của vùng đất thương cảng. Bảo tàng này phần nào nói lên vai trò Hội An với tính chất là một trung tâm thương cảng quốc tế lớn ở Đàng Trong - Việt Nam và cả khu vực Đông Nam Á."
+        },
+        {
+          "name": "Bảo tàng gốm sứ Hội An",
+          "loc": {
+            "lat": 15.877291,
+            "long": 108.329522
+          },
+          "location": "80 Trần Phú, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
+          "image": "ceramics",
+          "rating": "3.5",
+          "peoplerated": "132",
+          "type": "Viện bảo tàng",
+          "desc": "Bảo tàng gốm sứ Hội An là điểm đến không thể thiếu trong hành trình khám phá Hội An. Đến nơi đây bạn không chỉ được ngắm nhìn những cổ vật gốm sứ nức danh khắp bốn phương mà còn có cơ hội được biết thêm nhiều câu chuyện về một thời hưng thịnh của thương cảng Hội An."
+        },
+        {
+          "name": "Triển lãm Precious Heritage",
+          "loc": {
+            "lat": 15.877089,
+            "long": 108.334208
+          },
+          "location": "26 Phan Bội Châu, Hội An, Quảng Nam, Việt Nam",
+          "image": "heritage",
+          "rating": "5.0",
+          "peoplerated": "512",
+          "type": "Viện bảo tàng",
+          "desc": "Trưng bày 250m2 các bức ảnh và hiện vật được thu thập trong trong chuyến khám phá Việt Nam kéo dài 5 năm của nhiếp ảnh gia Rehahn. Phòng trưng bày mở cửa tự do."
+        }
+      ]
+    },
+    "shop": {
+      "title": "Mua sắm ở Hội An",
+      "desc": "Nơi đây là thiên đường mua sắm từ những chợ ở địa phương cho đến các trung tâm thương mại.",
+      "more_places": "HƠN 7+ ĐỊA ĐIỂM",
+      "more_info": [
+        {
+          "name": "Cửa hàng túi da Thân Thiện",
+          "loc": {
+            "lat": 15.8769476,
+            "long": 108.3337922
+          },
+          "location": "44 Đường Phan Bội Châu, Cẩm Châu, Hội An, Quảng Nam, Việt Nam",
+          "image": "friendly_shop",
+          "rating": "5.0",
+          "peoplerated": "577",
+          "type": "Cửa hàng thủ công mỹ nghệ",
+          "desc": "Túi xách Thân Thiện là cửa hàng túi duy nhất ở Hội An. Chúng tôi có thể làm túi du lịch, túi xách, túi xách cho máy tính xách tay hoặc iPad và ví. Trong vòng chưa đầy một ngày, bạn có thể nhận được túi xách sau khi đã chọn thiết kế và vải.",
+          "phone": "093 521 13 82",
+          "website": "friendlybaghoian.com",
+          "times": "9:00 AM - 9:00 PM"
+        },
+        {
+          "name": "Đèn lồng & đèn lụa Dé Lantana",
+          "loc": {
+            "lat": 15.883083,
+            "long": 108.335871
+          },
+          "location": "35 Lý Thái Tổ, Sơn Phong, Hội An, Quảng Nam, Việt Nam",
+          "image": "de_lantana",
+          "rating": "4.7",
+          "peoplerated": "36",
+          "type": "Cửa hàng thủ công mỹ nghệ",
+          "desc": "Đèn lồng & đèn lụa Dé Lantana cũng là nơi đáng tin cậy để mua đèn và đèn lồng truyền thống cũng như hiện đại. Những chiếc đèn lồng tuyệt đẹp có sẵn ở đây đều ở mức giá hợp lý.",
+          "phone": "+84 235 6288 789",
+          "website": "http://www.delantana.com/",
+          "times": "7:30 AM - 5:00 PM"
+        },
+        {
+          "name": "Chợ đêm",
+          "loc": {
+            "lat": 15.875923,
+            "long": 108.325948
+          },
+          "location": "Nguyễn Hoàng, Hội An, Quảng Nam, Việt Nam",
+          "image": "night_market",
+          "rating": "4.1",
+          "peoplerated": "142",
+          "type": "Thị trường",
+          "desc": "Chợ đêm Hội An, nằm trên đường Nguyễn Hoàng ở trung tâm thành phố, bao gồm hơn 50 đại lý địa phương bán nhiều loại đồ ăn vặt, đồ trang sức, quần áo, đồ trang sức và phụ kiện địa phương. Được coi là một trong những thị trường phổ biến nhất ở Việt Nam, nó chiếm một con đường dài 300 mét nhìn ra sông Thu Bồn và được chiếu sáng bởi hàng trăm chiếc đèn lồng đầy màu sắc, tạo nên một nơi lí tưởng cho nhiếp ảnh.",
+          "phone": "",
+          "website": "",
+          "times": "5:00 PM - 11:00 PM"
+        },
+        {
+          "name": "Chợ trung tâm Hội An",
+          "loc": {
+            "lat": 15.876824,
+            "long": 108.33128
+          },
+          "location": "73 Phan Bội Châu, Hội An, Quảng Nam, Việt Nam",
+          "image": "central_market",
+          "rating": "4.0",
+          "peoplerated": "213",
+          "type": "Thị trường",
+          "desc": "Nằm bên bờ sông Thu Bồn, chợ trung tâm Hội An luôn nhộn nhịp với hàng trăm quầy hàng lớn nhỏ. Đến đây du khách sẽ chọn được những mặt hàng địa phương ưng ý, chất lượng với giá cả hợp lí.",
+          "phone": "",
+          "website": "",
+          "times": "5:00 AM - 4:00 PM"
+        },
+        {
+          "name": "Cửa hàng đèn lồng Hội An",
+          "loc": {
+            "lat": 15.880543,
+            "long": 108.298083
+          },
+          "location": "424 Hùng Vương, Thanh Hà, Hội An, Quảng Nam, Việt Nam",
+          "image": "hoian_lantern_shop",
+          "rating": "4.2",
+          "peoplerated": "13",
+          "type": "Cửa hàng thủ công mỹ nghệ",
+          "desc": "Đèn lồng Hội An sẽ chào đón bạn đến với một thế giới đầy màu sắc của những chiếc đèn lồng đẹp mắt với vô số các kiểu dáng cho bạn lựa chọn.",
+          "phone": "+84 93 586 31 49",
+          "website": "",
+          "times": "9:00 AM - 5:00 PM"
+        },
+        {
+          "name": "Phòng trưng bày Couleurs d’Asie",
+          "loc": {
+            "lat": 15.877985,
+            "long": 108.331375
+          },
+          "location": "7 Nguyễn Huệ, Cẩm Châu, Hội An, Quảng Nam, Việt Nam",
+          "image": "coleurs_dasie",
+          "rating": "5.0",
+          "peoplerated": "521",
+          "type": "Bộ sưu tập",
+          "desc": "Đây là phòng trưng bày thứ 2 của Réhahn ở Hội An. Trong bộ sưu tập, Réhahn đã trưng bày các tác phẩm hay nhất của ông với phiên bản giới hạn được chứng nhận bởi chính nhiếp ảnh gia, ông cũng trưng bày cuốn sách của mình và nhiều loại bưu thiếp.",
+          "phone": "+84 235 3911 382",
+          "website": "http://www.rehahnphotographer.com/",
+          "times": "8:00 AM - 8:00 PM"
+        },
+        {
+          "name": "Phòng trưng bày nghệ thuật Hưng Long",
+          "loc": {
+            "lat": 15.8765561,
+            "long": 108.3273384
+          },
+          "location": "105 Nguyễn Thái Học, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
+          "image": "hunglong_gallery",
+          "rating": "4.5",
+          "peoplerated": "26",
+          "type": "Bộ sưu tập",
+          "desc": "Đây là gallery của Nguyễn Trung Việt, một nghệ sĩ Việt Nam tài năng. Cửa hàng của anh sở hữu một loạt các tác phẩm hội họa do chính anh sáng tác. Với chất liệu chủ yếu là sơn mài, anh thổi linh hồn mình vào từng bức tranh mô tả cô gái Việt Nam trong áo dài quyến rũ.",
+          "phone": "0235 3861 524",
+          "website": "",
+          "times": "9:00 AM - 9:00 PM"
+        },
+        {
+          "name": "Reaching Out",
+          "loc": {
+            "lat": 15.876573,
+            "long": 108.327584
+          },
+          "location": "103 Nguyễn Thái Học, Phường Minh An, Hội An, Quảng Nam , Việt Nam",
+          "image": "reaching_out",
+          "rating": "5.0",
+          "peoplerated": "768",
+          "type": "Cửa hàng thủ công mỹ nghệ",
+          "desc": "Reaching Out là một doanh nghiệp địa phương chuyên sản xuất các mặt hàng thủ công tinh xảo và duyên dáng. Ở đây có nhiều sản phẩm như: đồ trang sức, đồ thủ công, đồ trang trí bếp, trà và cà phê. Ngoài ra, Reaching Out còn có một quán cà phê mang phong cách cổ điển ngay bên cạnh cửa hàng.",
+          "phone": "+84 235 3910 168",
+          "website": "https://reachingoutvietnam.com",
+          "times": "8:30 AM – 9:30 PM"
+        },
+        {
+          "name": "Hiệm vải Hoa Nắng",
+          "loc": {
+            "lat": 15.8775449,
+            "long": 108.3293326
+          },
+          "location": "9 Trần Phú, Cẩm Châu, Hội An, Quảng Nam, Việt Nam",
+          "image": "sunny_shop",
+          "rating": "5.0",
+          "peoplerated": "446",
+          "type": "Cửa hàng quần áo",
+          "desc": "Hiệu vải Hoa Nắng cung cấp quần áo nam và nữ được thiết kế riêng, bao gồm trang phục công sở, quần áo trang trọng, áo khoác mùa đông và các mặt hàng quần áo khác.",
+          "phone": "+84 129 765 6275",
+          "website": "",
+          "times": "9:00 AM - 9:00 PM"
+        },
+        {
+          "name": "A Dong Silk Tailors",
+          "loc": {
+            "lat": 15.8798636,
+            "long": 108.326232
+          },
+          "location": "62 Trần Hưng Đạo, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
+          "image": "a_dong_silk",
+          "rating": "5.0",
+          "peoplerated": "3690",
+          "type": "Cửa hàng quần áo",
+          "desc": "Được thành lập vào năm 1997, A Dong Silk là công ty hàng đầu trong lĩnh vực may riêng tại Việt Nam. Công ty đã giành được danh tiếng toàn cầu về phong cách và chất lượng cao trong lĩnh vực may mặc.",
+          "phone": "+84 235 3910 579",
+          "website": "",
+          "times": "8:00 AM - 9:30 PM"
+        }
+      ]
+    },
+    "hotel": {
+      "title": "Khách sạn ở Hội An",
+      "desc": "Hội An có hàng loạt các khách sạn, nhà nghỉ tạo cho bạn sự thoải mái khi du lịch.",
+      "more_places": "HƠN 7+ ĐỊA ĐIỂM",
+      "more_info": [
+        {
+          "name": "Hội An Hippie House",
+          "loc": {
+            "lat": 15.9151322,
+            "long": 108.3326321
+          },
+          "location": "Tổ 5, Khối An Bang, Cẩm An, Hội An, Quảng Nam, Việt Nam",
+          "image": "hippie",
+          "rating": "5.0",
+          "peoplerated": "49",
+          "type": "Khách sạn",
+          "desc": "Hội An Hippie House nằm trong làng chài nhỏ của Hội An, gần bãi biển An Bàng. Hippie bao gồm bốn phòng riêng thường và một phòng to.",
+          "phone": "+84 125 348 3356",
+          "website": "http://thehippiehouse.vn",
+          "star": "2"
+        },
+        {
+          "name": "Bamboo Homestay",
+          "loc": {
+            "lat": 15.8829458,
+            "long": 108.3462759
+          },
+          "location": "Cẩm Châu, Hội An, Cẩm Châu, Việt Nam, Quảng Nam, Việt Nam",
+          "image": "bamboo",
+          "rating": "4.7",
+          "peoplerated": "128",
+          "type": "Khách sạn",
+          "desc": "Một sân sau yên tĩnh, một hồ bơi mát mẻ, một góc đọc sách yên tĩnh, và một tách cà phê nóng. Tại Bamboo Hội An Homestay, chúng tôi sẽ phục vụ tất cả các bạn.",
+          "phone": "+84 235 6531 952",
+          "website": "https://www.facebook.com/bamboohomestay/",
+          "star": "2"
+        },
+        {
+          "name": "Almond Villa Hội An",
+          "loc": {
+            "lat": 15.8916071,
+            "long": 108.3117183
+          },
+          "location": "230 Nguyễn Chí Thanh, Tân An, Hội An, Quảng Nam, Việt Nam",
+          "image": "almond",
+          "rating": "4.7",
+          "peoplerated": "138",
+          "type": "Khách sạn",
+          "desc": "Almond Villa có 9 phòng và hồ bơi ngoài trời, du khách có thể thưởng thức đồ uống tại quầy bar. Các phòng nghỉ tại đây được trang bị TV màn hình phẳng. Khu vườn và khu vực hồ bơi rất đẹp và các phòng rộng rãi và sạch sẽ, bữa sáng tuyệt vời. Nhân viên rất thân thiện và nhiệt tình,dịch vụ chuyên nghiệp. Wi-Fi có sẵn, có xe đạp và chỗ đỗ xe miễn phí.",
+          "phone": "+84 90 513 14 20",
+          "website": "",
+          "star": "2"
+        },
+        {
+          "name": "Biệt thự Gia Lâm Hội An",
+          "loc": {
+            "lat": 15.8828023,
+            "long": 108.3435827
+          },
+          "location": "Lý Thường Kiệt - Trần Nhân Tông, Sơn Phong, Cẩm Châu, Hội An, Quảng Nam, Việt Nam",
+          "image": "gialam",
+          "rating": "4.7",
+          "peoplerated": "255",
+          "type": "Khách sạn",
+          "desc": "Biệt thự Gia Lâm nằm ở một vị trí thích hợp với giá phòng phù hợp. Đây là một địa điểm thích hợp cho gia đình và công ty.",
+          "phone": "+84 235 3923 791",
+          "website": "https://vi-vn.facebook.com/GIA-L%C3%82M-Villa-243449476123462/",
+          "star": "3"
+        },
+        {
+          "name": "Khu nghỉ dưỡng Victoria Hội An Beach",
+          "loc": {
+            "lat": 15.8954195,
+            "long": 108.3696932
+          },
+          "location": "Âu Cơ, Biển Cửa Đại, Hội An, Quảng Nam",
+          "image": "victoria",
+          "rating": "4.5",
+          "peoplerated": "2429",
+          "type": "Khách sạn",
+          "desc": "Khu nghỉ dưỡng & Spa Victoria Hội An bao gồm 109 phòng tiện nghi với phong cách kết hợp giữa kiến trúc Việt Nam truyền thống, phong cách Nhật Bản và kiến trúc Pháp cổ, cùng với nét tinh tế trong các hoạ tiết đặc trưng của Hội An. Điểm nhấn của khu nghỉ dưỡng là bể bơi vô cực với tầm nhìn hướng biển, một nơi lý tưởng để nghỉ ngơi và thư giãn khi nhấm nháp một ly cocktail trên tay.",
+          "phone": "+84 235 3927 040",
+          "website": "https://www.victoriahotels.asia/vi/hotels-resorts/hoian.html",
+          "star": "3"
+        },
+        {
+          "name": "Khu nghỉ dưỡng Ancient House Village",
+          "loc": {
+            "lat": 15.8819123,
+            "long": 108.3452566
+          },
+          "location": "Cẩm Thanh, Hội An, Quảng Nam, Việt Nam",
+          "image": "ancient",
+          "rating": "4.5",
+          "peoplerated": "1166",
+          "type": "Khách sạn",
+          "desc": "Hoi An Ancient House Village Resort & Spa có bồn tắm nước nóng, hồ bơi ngoài trời, trung tâm thể dục và khu vườn xanh tươi tốt. Khách sạn phục vụ miễn phí cho khách trái cây hàng ngày, bãi đậu xe tại chỗ miễn phí và Wi-Fi miễn phí trong toàn bộ khuôn viên.",
+          "phone": "+84 235 3923 791",
+          "website": "http://ancienthousevillage.com/vn/home.html",
+          "star": "4"
+        },
+        {
+          "name": "Khu nghỉ dưỡng Anantara Hội An",
+          "loc": {
+            "lat": 15.8772501,
+            "long": 108.3346723
+          },
+          "location": "1 Phạm Hồng Thái, Cẩm Châu, Hội An, Quảng Nam, Việt Nam",
+          "image": "anantara",
+          "rating": "4.5",
+          "peoplerated": "2223",
+          "type": "Khách sạn",
+          "desc": "Nằm ở vị trí tuyệt đẹp bên bờ Sông Thu Bồn, Anantara Hội An Resort là một nơi nghỉ dưỡng duyên dáng trong thành phố cảng Hội An mang đậm dấu ấn lịch sử. Thiết kế theo phong cách kiến trúc Pháp, Hà Lan, Trung Quốc và Nhật Bản thể hiện sự đa dạng trong văn hoá của Hội An, các phòng mở ra hành lang với những giường nghỉ thoải mái, nhìn ra sông hay sân vườn.",
+          "phone": "+84 235 3914 555",
+          "website": "https://www.anantara.com/",
+          "star": "5"
+        },
+        {
+          "name": "Khách sạn Hội An Historic",
+          "loc": {
+            "lat": 15.8799909,
+            "long": 108.3286832
+          },
+          "location": "10 Trần Hưng Đạo, Sơn Phong, Hội An, Quảng Nam, Việt Nam",
+          "image": "historic",
+          "rating": "4.0",
+          "peoplerated": "1841",
+          "type": "Khách sạn",
+          "desc": "Được thành lập vào năm 1991, Hoi An Historic nổi tiếng với vị trí lý tưởng, nét duyên dáng và tiện nghi đẳng cấp thế giới. Du khách có thể đến bãi biển Cửa Đại tuyệt đẹp, cách 4km về phía Đông, bằng cách lên xe đưa đón chạy trong 15 phút.",
+          "phone": "+84 235 3861 445",
+          "website": "http://www.hoianhistorichotel.com.vn/",
+          "star": "4"
+        },
+        {
+          "name": "Khu nghỉ dưỡng Vĩnh Hưng",
+          "loc": {
+            "lat": 15.8741664,
+            "long": 108.3222952
+          },
+          "location": "111 Ngô Quyền, Hội An, Quảng Nam, Việt Nam",
+          "image": "vinhhung",
+          "rating": "4.5",
+          "peoplerated": "1913",
+          "type": "Khách sạn",
+          "desc": "Với các loại hình khách sạn khác nhau của chúng tôi cung cấp những tiện nghi và dịch vụ để đáp ứng nhu cầu cá nhân của bạn.",
+          "phone": "+84 235 3910 393",
+          "website": "http://www.vinhhunghotels.com.vn/about-us.html",
+          "star": "3"
+        },
+        {
+          "name": "Khu nghỉ dưỡng Marina Resort &Spa",
+          "loc": {
+            "lat": 15.874499,
+            "long": 108.3200414
+          },
+          "location": "567 Hai Bà Trưng, Hội An, Quảng Nam, Việt Nam",
+          "image": "silk",
+          "rating": "5.0",
+          "peoplerated": "2001",
+          "type": "Khách sạn",
+          "desc": "Thu mình trong vẻ đẹp thơ mộng ngay trung tâm phố cổ Hội An, toạ lạc trên bờ sông Thu Bồn yên ả, Hội An Silk Marina Resort & Spa là khu du lịch nghỉ dưỡng cao cấp và lý tưởng để chiêm ngưỡng trọn vẹn vẻ đẹp lung linh, rực rỡ của “thành phố đèn lồng”. Không gian kiến trúc độc đáo mang cảm hứng thiết kế Đông Tây hài hoà và tinh tế, cùng cơ sở vật chất hiện đại, dịch vụ nghỉ dưỡng cao cấp, hoàn toàn có thể đáp ứng mọi nhu cầu và mong muốn của bạn về một resort sang trọng, tiện nghi và đẳng cấp.",
+          "phone": "+84 235 3938 888",
+          "website": "http://hoiansilkmarina.com",
+          "star": "4"
+        }
+      ]
+    }
+  }
+}

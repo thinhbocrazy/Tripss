@@ -1,0 +1,664 @@
+{
+  "nonetwork": "Internet Error",
+  "buttonText": "DISCOVER",
+  "headerTitles": {
+    "description": "DESCRIPTION",
+    "location": "LOCATION",
+    "menu": "MENU",
+    "food": "HOI AN FOOD",
+    "hotel": "HOI AN HOTELS",
+    "place": "HOI AN PLACES",
+    "shop": "HOI AN SHOPS"
+  },
+  "category": {
+    "food": {
+      "title": "Where can I eat?",
+      "desc": "Hoi An is not just famous for its ancient beauty that has been recognized many times worldwide but also for its authentic cuisine",
+      "more_places": "MORE 7+ PLACES",
+      "more_info": [
+        {
+          "name": "The Temple Restaurant",
+          "loc": {
+            "lat": 15.880014,
+            "long": 108.316384
+          },
+          "location": "132 Hùng Vương, Phường Cẩm Phổ, Hội An, Quảng Nam, Việt Nam",
+          "image": "temple",
+          "rating": "5.0",
+          "peoplerated": "111",
+          "type": "Fine Dining",
+          "desc": "Inspired by Western Europe, our fine dining international fusion restaurant and lounge bar embraces exceptional culinary diversity from around the globe.",
+          "phone": "+84 93 818 58 04",
+          "cost": "$$$$",
+          "menu": "Bar, Fast Food, Pub, Vegetarian Friendly, Gluten Free Options, Vegan Options",
+          "times": "6:00 AM - 11:00 PM"
+        },
+        {
+          "name": "Aubergine49 Restaurant",
+          "loc": {
+            "lat": 15.883697,
+            "long": 108.335575
+          },
+          "location": "49 Lý Thái Tổ, Sơn Phong, Hội An, Quảng Nam, Việt Nam",
+          "image": "aubergine49",
+          "rating": "4.5",
+          "peoplerated": "444",
+          "type": "Fine Dining",
+          "desc": "Aubergine49 is a modern European fine dining establishment situated a short distance from the UNESCO ancient town of Hoi An. We are the first restaurant of this style of dining in the area. Here at Aubergine49, we believe that giving you a quality experience is of upmost importance. From our locally sourced produce to our finest imported ingredients we are proud to present to you our Eurasian inspired dishes.",
+          "phone": "+84 235 2212 190",
+          "cost": "$$$$",
+          "menu": "French, European, Asian, Contemporary, Vegetarian Friendly, Vegan Options, Gluten Free Options",
+          "times": "6:00 PM - 10:00 PM"
+        },
+        {
+          "name": "Herbs And Spices Restaurant",
+          "loc": {
+            "lat": 15.879611,
+            "long": 108.328534
+          },
+          "location": "2/6 Lê Lợi, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
+          "image": "herbs",
+          "rating": "5.0",
+          "peoplerated": "1012",
+          "type": "Moderately Priced",
+          "desc": "Unlike other restaurants or cooking classes that you will find in Hoi An, Herbs and Spices Cooking School is only taking small groups for hands on experiences. We are catering for all levels of skill, age and experience.",
+          "phone": "+84 510 3936 886",
+          "cost": "$$",
+          "menu": "Asian, Vietnamese, International, Fusion, Vegetarian Friendly, Vegan Options, Gluten Free Options",
+          "times": ""
+        },
+        {
+          "name": "Shore Club An Bang Beach",
+          "loc": {
+            "lat": 15.913791,
+            "long": 108.340795
+          },
+          "location": "Hai Bà Trưng, Hội An, Quảng Nam, Việt Nam",
+          "image": "shore",
+          "rating": "5.0",
+          "peoplerated": "313",
+          "type": "Moderately Priced",
+          "desc": "Absolute beach front dining and reviving. Ready to tantalise your taste buds 7 days a week from 7am till late.",
+          "phone": "+84 120 460 4861",
+          "cost": "$$",
+          "menu": "International, Vietnamese, Seafood, Fusion, Vegetarian Friendly, Gluten Free Options",
+          "times": "7:00 AM - 11:00 PM"
+        },
+        {
+          "name": "Restaurant & Cafe Tuan",
+          "loc": {
+            "lat": 15.876412,
+            "long": 108.346173
+          },
+          "location": "170 Trần Nhân Tông, Cẩm Châu, Hội An, Quảng Nam, Việt Nam",
+          "image": "cafe",
+          "rating": "5.0",
+          "peoplerated": "1343",
+          "type": "Cheap Eats",
+          "desc": "Come and dine at Tuan Restaurant & Cafe. We offer a variety of delicious food from the west and from right here in Hoi An. Pizza, burgers, and more!",
+          "phone": "+84 90 570 66 74",
+          "cost": "$",
+          "menu": "Italian, Pizza, European, Asian, Vietnamese, Vegetarian Friendly, Vegan Options, Gluten Free Options",
+          "times": "12:00 PM - 9:00 PM"
+        },
+        {
+          "name": "Simple Bar and Restaurant (Rose's kitchen)",
+          "loc": {
+            "lat": 15.889468,
+            "long": 108.377787
+          },
+          "location": "Âu Cơ, Cửa Đại, Hội An, Quảng Nam, Việt Nam",
+          "image": "simple",
+          "rating": "5.0",
+          "peoplerated": "105",
+          "type": "Cheap Eats",
+          "desc": "Simple restaurant is a restaurant that has a great gastronomic space with a fine combination of Asian cuisine culture and bold beauty of Vietnam.",
+          "phone": "+84 166 951 1881",
+          "cost": "$",
+          "menu": "Seafood, European, Asian, Vietnamese, Gastropub, Vegetarian Friendly, Vegan Options, Gluten Free Options",
+          "times": "11:00 AM - 10:00 PM"
+        },
+        {
+          "name": "Rosie's cafe",
+          "loc": {
+            "lat": 15.877663,
+            "long": 108.325648
+          },
+          "location": "8/6 Nguyễn Thị Minh Khai, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
+          "image": "frenchBakery",
+          "rating": "5.0",
+          "peoplerated": "512",
+          "type": "Breakfast",
+          "desc": "Rosie’s Café on Nguyen Thi Minh Khai Street, just up the alley from Nu Eatery, is a delightful marriage of Vietnamese coffee tradition and modern aesthetics. Rosie’s offers a wide selection of coffee beverages and fresh juices along with a calm, cool space to have a chat, read, or work.",
+          "phone": "+84 90 531 24 33",
+          "cost": "$",
+          "menu": "Cafe, International, Healthy, Vegetarian Friendly, Vegan Options, Gluten Free Options",
+          "times": "9:00 AM - 5:00 PM"
+        },
+        {
+          "name": "French Bakery and Restaurant",
+          "loc": {
+            "lat": 15.913642,
+            "long": 108.336849
+          },
+          "location": "Cẩm An, Hội An, Quảng Nam, Việt Nam",
+          "image": "rosie",
+          "rating": "4.5",
+          "peoplerated": "310",
+          "type": "Breakfast",
+          "desc":"French and Vietnamese food in an outdoor setting. At An Bang Beach Village we serve breakfast, lunch and dinner 7 days a week.",
+          "phone": "+84 128 868 9643",
+          "cost": "$",
+          "menu":"French, Vietnamese, Cafe, Asian, Vegetarian Friendly, Gluten Free Options, Vegan Options",
+          "times": "7:00 AM - 9:00 PM"
+        },
+        {
+          "name": "Tra Que Garden Cooking Class & Restaurant",
+          "loc": {
+            "lat": 15.901926,
+            "long": 108.339727
+          },
+          "location": "Hai Bà Trưng, Cẩm Hà, Hội An, Quảng Nam, Việt Nam",
+          "image": "traQue",
+          "rating": "5.0",
+          "peoplerated": "276",
+          "type": "Local",
+          "desc":"Spending a half-day of living, working, and cooking with the local people in the Organic vegetable village will be a great chance for you to discover the daily life of the farmers and of course to become a “real local chef”!",
+          "phone": "+84 90 286 66 03",
+          "cost": "$",
+          "menu":"Asian, Vietnamese, Vegan Options, Gluten Free Options, Vegetarian Friendly",
+          "times": "9:00 AM - 4:00 PM"
+        },
+        {
+          "name": "Nhan's Kitchen",
+          "loc": {
+            "lat": 15.878034,
+            "long": 108.345139
+          },
+          "location":"167 Trần Nhân Tông, Cẩm Châu, Hội An, Quảng Nam, Việt Nam",
+          "image": "nhans",
+          "rating": "5.0",
+          "peoplerated": "731",
+          "type": "Local",
+          "desc":"In Hoi An it’s common for the cheaper restaurants to have huge pizza sections. These orders are sub-contracted to third parties.Nhan’s Kitchen make their own however, and they’re surprisingly good; quite possibly the best pizza value-for-money in town. Try the Four Cheeses Pizza on for size at just 80,000 VND!",
+          "phone": "+84 90 518 68 67",
+          "cost": "$",
+          "menu":"Italian, Bar, Pizza, Asian, Vietnamese, Vegetarian Friendly, Vegan Options, Gluten Free Options",
+          "times": "12:00 PM - 9:30 PM"
+        }
+      ]
+    },
+    "place": {
+      "title": "Where can I visit?",
+      "desc": "Hoi An has a lot of places to see and things to do, you will never be bored",
+      "more_places": "MORE 7+ PLACES",
+      "more_info": [
+        {
+          "name": "An Bang Beach",
+          "loc": {
+            "lat": 15.913796,
+            "long": 108.3386063
+          },
+          "location": "Hai Bà Trưng, Hội An, Quảng Nam, Việt Nam",
+          "image": "anBang",
+          "rating": "5.0",
+          "peoplerated": "135",
+          "type": "Beach",
+          "desc":"Tranquil, tree-lined beach featuring white sand, palapas, lounge chairs & eateries."
+        },
+        {
+          "name": "Fukian Assembly Hall",
+          "loc": {
+            "lat": 15.877512,
+            "long": 108.330547
+          },
+          "location": "46 Trần Phú, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
+          "image": "fujian",
+          "rating": "4.0",
+          "peoplerated": "808",
+          "type": "Tourist Spot",
+          "desc":"Each of the many animal statues in this stunning meeting hall symbolize some life quality such as wisdom, longevity and nobility; Chinese merchants from the Phuc Kien province built this structure in 1697."
+        },
+        {
+          "name": "Lune Performing Center Hoi An",
+          "loc": {
+            "lat": 15.875217,
+            "long": 108.328802
+          },
+          "location":"Công viên Đồng Hiệp, Phố cổ, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
+          "image": "lune",
+          "rating": "4.5",
+          "peoplerated": "20273",
+          "type": "Tourist Spot",
+          "desc":"Known for A O Show, My Village, Teh Dar, and The Mist, spectacles that charm audience in Saigon, Hanoi, and 4 continents around the world, Lune Production now comes to Hoi An. Our own established venue, Lune Performing Center Hoi An, begins welcoming local and international guests to amazing cultural expreriences from January 2018."
+        },
+        {
+          "name": "Van Duc Pagoda",
+          "loc": {
+            "lat": 15.904602,
+            "long": 108.321793
+          },
+          "location": "Cẩm Hà, Hội An, Quảng Nam, Việt Nam",
+          "image": "vanDuc",
+          "rating": "4.5",
+          "peoplerated": "40",
+          "type": "Tourist Spot",
+          "desc":"Van Duc, one of the largest pagodas in Hoi An, is home to monks who are sometimes happy to give you a quick tour of the pagoda and its grounds."
+        },
+        {
+          "name": "Japanese Covered Bridge",
+          "loc": {
+            "lat": 15.877118,
+            "long": 108.326104
+          },
+          "location":"Nguyễn Thị Minh Khai, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
+          "image": "japaneseBridge",
+          "rating": "4.0",
+          "peoplerated": "7504",
+          "type": "Tourist Spot",
+          "desc":"A local favorite, construction on this covered bridge began in the Year of the Monkey (1593) and was finished in the Year of the Dog (1595), hence the monkey and dog sculptures at either end."
+        },
+        {
+          "name": "The Old House of Phung Hung",
+          "loc": {
+            "lat": 15.877192,
+            "long": 108.325801
+          },
+          "location":"4 Nguyễn Thị Minh Khai, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
+          "image": "oldHouse",
+          "rating": "3.5",
+          "peoplerated": "414",
+          "type": "Tourist Spot",
+          "desc":"With over 100 years old, the Phung Hung House has a unique structure with high wooden logs and broad corridors, reflecting the development of architecture and the interplay of Asian architectural styles in Hoi An in the past centuries."
+        },
+        {
+          "name": "Tra Que Village",
+          "loc": {
+            "lat": 15.902439,
+            "long": 108.337633
+          },
+          "location": "Cẩm Hà, Hội An, Quảng Nam, Việt Nam",
+          "image": "traQue",
+          "rating": "4.5",
+          "peoplerated": "494",
+          "type": "Tourist Spot",
+          "desc":"Tra Que is a charming little village on the edge of Hoi An, the village is named after the sweet scented vegetables that spice up the everyday meals of the Pho Hoi people. Experience a day of living and working with the local people in Tra Que vegetable village, in which you will have a chance to discover the daily life of farmers."
+        },
+        {
+          "name": "Hoi An Museum of History & Culture",
+          "loc": {
+            "lat": 15.880269,
+            "long": 108.329463
+          },
+          "location": "10B Trần Hưng Đạo, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
+          "image": "history",
+          "rating": "3.0",
+          "peoplerated": "111",
+          "type": "museum",
+          "desc":"The Quan Yin pagoda houses this history museum that contains artifacts covering two thousand years of Hoi An culture."
+        },
+        {
+          "name": "Hoi An Museum of Trade Ceramics",
+          "loc": {
+            "lat": 15.877291,
+            "long": 108.329522
+          },
+          "location": "80 Trần Phú, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
+          "image": "ceramics",
+          "rating": "3.5",
+          "peoplerated": "132",
+          "type": "museum",
+          "desc":"Hoi An Ceramic Museum is an indispensable destination in Hoi An's discovery journey. Not only can you see the ancient pottery and pottery in four directions, but also have the opportunity to learn more about the prosperity of the commercial port of Hoi An."
+        },
+        {
+          "name": "Precious Heritage Art Gallery Museum",
+          "loc": {
+            "lat": 15.877089,
+            "long": 108.334208
+          },
+          "location": "26 Phan Bội Châu, Hội An, Quảng Nam, Việt Nam",
+          "image": "heritage",
+          "rating": "5.0",
+          "peoplerated": "512",
+          "type": "museum",
+          "desc":"A 250m2 display of photos and artifacts collected during the last 5 years of Rehahn's exploration of Vietnam. Entrance for this cultural experience is free. English, French and Vietnamese available"
+        }
+      ]
+    },
+    "shop": {
+      "title": "Where can I shop?",
+      "desc":
+        "Hoi an is filled with places to shop from local markets to specialised stores",
+      "more_places": "MORE 7+ PLACES",
+      "more_info": [
+        {
+          "name": "Friendly Leather Bags Shop",
+          "loc": {
+            "lat": 15.8769476,
+            "long": 108.3337922
+          },
+          "location": "44 Đường Phan Bội Châu, Cẩm Châu, Hội An, Quảng Nam, Việt Nam",
+          "image": "friendly_shop",
+          "rating": "5.0",
+          "peoplerated": "577",
+          "type": "Handicraft shop",
+          "desc":"Friendly bags is the only one bags shop in Hoi An. We are able to make travel bags, handbags, bags for laptop or iPad and wallets to measure. In less than one day, you can receive your bags after had chosen your design and the fabric.",
+          "phone": "+84 93 521 13 82",
+          "website": "friendlybaghoian.com",
+          "times": "9:00 AM - 9:00 PM"
+        },
+        {
+          "name": "Dé Lantana Silk Lantern & Lamp",
+          "loc": {
+            "lat": 15.883083,
+            "long": 108.335871
+          },
+          "location": "35 Lý Thái Tổ, Sơn Phong, Hội An, Quảng Nam, Việt Nam",
+          "image": "de_lantana",
+          "rating": "4.7",
+          "peoplerated": "36",
+          "type": "Handicraft shop",
+          "desc":"Dé Lantana Silk Lantern & Lamp is also a reliable place for purchasing traditional as well as modern lanterns and lamps. Gorgeous lanterns are available here and all are at reasonable prices.",
+          "phone": "+84 235 6288 789",
+          "website": "http://www.delantana.com/",
+          "times": "7:30 AM - 5:00 PM"
+        },
+        {
+          "name": "Night Market",
+          "loc": {
+            "lat": 15.875923,
+            "long": 108.325948
+          },
+          "location": "Đường Nguyễn Hoàng, Hội An, Quảng Nam, Việt Nam",
+          "image": "night_market",
+          "rating": "4.1",
+          "peoplerated": "142",
+          "type": "Market",
+          "desc":"Hoi An Night Market, occupying Nguyen Hoang Street in the centre of town, consists of over 50 local vendors selling a variety of local snacks, trinkets, clothing, jewellery, and accessories. Widely regarded as one of the most popular markets in Vietnam, it occupies a 300-metre-long street that overlooks Thu Bon River and is illuminated by hundreds of colourful lanterns, making a popular spot for photography as well.",
+          "phone": "",
+          "website": "",
+          "times": "5:00 PM - 11:00 PM"
+        },
+        {
+          "name": "Central Market",
+          "loc": {
+            "lat": 15.876824,
+            "long": 108.33128
+          },
+          "location":"73 Phan Bội Châu, Sơn Phong, Hội An, Quảng Nam, Việt Nam",
+          "image": "central_market",
+          "rating": "4.0",
+          "peoplerated": "213",
+          "type": "Market",
+          "desc":"Resting on the banks of the Thu Bon River, bustling Hoi An Central Market is certainly worth a look for its authentic slice of Vietnamese life. The market is busy throughout the day with locals bargaining hard alongside tourists so its best to arrive first thing in the morning. The negotiating over fish usually starts around 07:00 as the fishermen drop their catch off and the market vendors and local buyers dive in to get the best fish. Be warned that it can get very messy, nevertheless it's certainly a sight not to be missed. Inside the market there are also plenty of live ducks and chickens tied together and ready for sale alongside row upon row of Vietnamese cooking ingredients. The smell can get quite strong as the day heats up and the market will also become a lot busier and louder as the day progresses. If you want to avoid this, then head to the east side and the large shed type building which houses the tailors and all manner of Asian silk and textiles.",
+          "phone": "",
+          "website": "",
+          "times": "5:00 AM - 4:00 PM"
+        },
+        {
+          "name": "Hoi An Lantern Shop",
+          "loc": {
+            "lat": 15.880543,
+            "long": 108.298083
+          },
+          "location": "424 Hùng Vương, Thanh Hà, Hội An, Quảng Nam, Việt Nam",
+          "image": "hoian_lantern_shop",
+          "rating": "4.2",
+          "peoplerated": "13",
+          "type": "Handicraft shop",
+          "desc":"Hoi An Lantern will welcome you to a colorful world of beautiful lanterns with myriad products for you to choose. Friendly staff will introduce you wonderful lanterns product.",
+          "phone": "+84 93 586 31 49",
+          "website": "",
+          "times": "9:00am - 5:00pm"
+        },
+        {
+          "name": "Couleurs d’Asie Gallery",
+          "loc": {
+            "lat": 15.877985,
+            "long": 108.331375
+          },
+          "location":"7 Nguyễn Huệ, Cẩm Châu, Hội An, Quảng Nam, Việt Nam",
+          "image": "coleurs_dasie",
+          "rating": "5.0",
+          "peoplerated": "521",
+          "type": "Gallery",
+          "desc":"This is the 2nd gallery of Réhahn in Hoi An. In the gallery, Réhahn has displayed some of his best work with some limited editions certified by the photographer himself; also showcasing his book and variety of postcards. Once you step into an art gallery, it’s really hard to stop yourself from getting a piece of art, painted by the talented local artisans.",
+          "phone": "+84 235 3911 382",
+          "website": "http://www.rehahnphotographer.com/",
+          "times": "8:00 AM - 8:00 PM"
+        },
+        {
+          "name": "Hung Long Art Gallery",
+          "loc": {
+            "lat": 15.8765561,
+            "long": 108.3273384
+          },
+          "location": "105 Nguyễn Thái Học, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
+          "image": "hunglong_gallery",
+          "rating": "4.5",
+          "peoplerated": "26",
+          "type": "Gallery",
+          "desc":"This is the gallery of Nguyen Trung Viet, a talented Vietnamese artist. His shop owns an array of painting works exhibited. With taken lacquer material primarily, he blows his soul to each picture describing Vietnamese girls in charming ao dai.",
+          "phone": "+84 235 3861 524",
+          "website": "",
+          "times": "9:00 AM - 9:00 PM"
+        },
+        {
+          "name": "Reaching Out Arts & Crafts",
+          "loc": {
+            "lat": 15.876573,
+            "long": 108.327584
+          },
+          "location":"103 Nguyễn Thái Học, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
+          "image": "reaching_out",
+          "rating": "5.0",
+          "peoplerated": "768",
+          "type": "Handicraft shop",
+          "desc":"Reaching Out is a local business in an array of exquisitely crafted goods and gracious services. They have many authentic Vietnamese products and experiences there, such as: jewelry, living, tea and coffee. The unique items you buy or the experiences you enjoy at Reaching Out give the gift of opportunity to the skilled artisans and servers, both able bodied and the disabled.",
+          "phone": "+84 235 3910 168",
+          "website": "https://reachingoutvietnam.com",
+          "times": "8:30 AM – 9:30 PM"
+        },
+        {
+          "name": "Sunny Cloth Shop",
+          "loc": {
+            "lat": 15.8775449,
+            "long": 108.3293326
+          },
+          "location": "9 Trần Phú, Cẩm Châu, Hội An, Quảng Nam, Việt Nam",
+          "image": "sunny_shop",
+          "rating": "5.0",
+          "peoplerated": "446",
+          "type": "Clothes shop",
+          "desc":"Get a bespoke formal or casual outfit done at Hoa Nang Sunny Cloth Shop. The store offers custom-made men's and women's apparel, including business suits, formalwear, winter coats, and other clothing items.",
+          "phone": "+84 129 765 6275",
+          "website": "",
+          "times": "9:00 AM - 9:00 PM"
+        },
+        {
+          "name": "A Dong Silk Tailors",
+          "loc": {
+            "lat": 15.8798636,
+            "long": 108.326232
+          },
+          "location":"62 Trần Hưng Đạo, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
+          "image": "a_dong_silk",
+          "rating": "5.0",
+          "peoplerated": "3690",
+          "type": "Clothes shop",
+          "desc":"Established in 1997, A Dong Silk is a leader in bespoke personal tailoring in Vietnam. It has earned a global reputation for delivering modern, stylish, high quality garments that fit all body types, perfectly.",
+          "phone": "+84 235 3910 579",
+          "website": "",
+          "times": "8:00 AM - 9:30 PM"
+        }
+      ]
+    },
+    "hotel": {
+      "title": "Where can I stay?",
+      "desc": "Hoi An has a large range of hotels, to enjoy you stay in comfort",
+      "more_places": "MORE 7+ PLACES",
+      "more_info": [
+        {
+          "name": "Hoi An Hippie House",
+          "loc": {
+            "lat": 15.9151322,
+            "long": 108.3326321
+          },
+          "location":"Tổ 5, Khối An Bang, Cẩm An, Hội An, Quảng Nam, Việt Nam",
+          "image": "hippie",
+          "rating": "5.0",
+          "peoplerated": "49",
+          "type": "Homestay",
+          "desc":"The Hoi An Hippie House is located in Hoi An’s lovely fishing village An Bang. It consists of four casual private hippie rooms and a hippie loung.",
+          "phone": "+84 125 348 3356",
+          "website": "http://thehippiehouse.vn",
+          "star": "2"
+        },
+        {
+          "name": "Bamboo Homestay",
+          "loc": {
+            "lat": 15.8829458,
+            "long": 108.3462759
+          },
+          "location":"Cẩm Châu, Hội An, Cẩm Châu, Vietnam, Quảng Nam, Việt Nam",
+          "image": "bamboo",
+          "rating": "4.7",
+          "peoplerated": "128",
+          "type": "Homestay",
+          "desc":"A quiet backyard, a cooling pool, a tranquil reading corner, and a hot latte. At Bamboo Hoi An Homestay, we shall serve you all. Just a little note to wish you a very graceful new week.",
+          "phone": "+84 235 6531 952",
+          "website": "https://www.facebook.com/bamboohomestay/",
+          "star": "2"
+        },
+        {
+          "name": "Almond Villa Hoi An",
+          "loc": {
+            "lat": 15.8916071,
+            "long": 108.3117183
+          },
+          "location":"230 Nguyễn Chí Thanh, Tân An, Hội An, Quảng Nam, Việt Nam",
+          "image": "almond",
+          "rating": "4.7",
+          "peoplerated": "138",
+          "type": "Homestay",
+          "desc":"The Almond Villa Hoi An is located at 230 Nguyen Chi Thanh St., in Hoi An Ancient Town. The homestay has 9 room & an outdoor pool, guests can enjoy a drink at the bar. Rooms are equipped with a flat-screen TV.  A welcome drink and fresh fruit is a served while completing check in. The gardens and pool area are beautiful and the rooms spacious and clean, great breakfast. Staff are very friendly, helpful. and professional service. Wifi is available, free bikes are great, free private parking.",
+          "phone": "+84 90 513 14 20",
+          "website": "",
+          "star": "2"
+        },
+        {
+          "name": "Gia Lam Villa Hoi An",
+          "loc": {
+            "lat": 15.8828023,
+            "long": 108.3435827
+          },
+          "location": "Lý Thường Kiệt - Trần Nhân Tông, Sơn Phong, Cẩm Châu, Hội An, Quảng Nam",
+          "image": "gialam",
+          "rating": "4.7",
+          "peoplerated": "255",
+          "type": "Homestay",
+          "desc": "Featuring free bikes, Gia Lam Villa Hoi An is located in Hoi An, a 15-minute walk from Assembly Hall of Chaozhou Chinese Congregation. Among the facilities of this property are a restaurant, a 24-hour front desk and a concierge service, along with free WiFi. Guests can have a cocktail at the bar.",
+          "phone": "0235 3923 791",
+          "website":"https://vi-vn.facebook.com/GIA-L%C3%82M-Villa-243449476123462/",
+          "star": "3"
+        },
+        {
+          "name": "Victoria Hoi An Beach Resort & Spa",
+          "loc": {
+            "lat": 15.8954195,
+            "long": 108.3696932
+          },
+          "location": "Âu Cơ, Biển Cửa Đại, Hội An, Quảng Nam",
+          "image": "victoria",
+          "rating": "4.5",
+          "peoplerated": "2429",
+          "type": "Hotel",
+          "desc":"The Victoria Hoi An Beach Resort & Spa has 109 rooms in a variety of sizes and styles featuring Japanese, classic French or traditional Vietnamese décor. The heart of the resort is a stunning coconut-tree fringed pool overlooking the ocean and beyond, the ideal place to simply be while away the day with refreshing cocktail in hand.",
+          "phone": "+ 84 235 3927 040",
+          "website":"https://www.victoriahotels.asia/vi/hotels-resorts/hoian.html",
+          "star": "3"
+        },
+        {
+          "name": "Ancient House Village Resort & Spa",
+          "loc": {
+            "lat": 15.8819123,
+            "long": 108.3452566
+          },
+          "location": "Cẩm Thanh, Hội An, Quảng Nam, Việt Nam",
+          "image": "ancient",
+          "rating": "4.5",
+          "peoplerated": "1166",
+          "type": "Hotel",
+          "desc":"We warmly welcome you to the Ancient House Village Resort and Spa, and we wish you a very peaceful, serene, and pleasant stay with us.  We hope you will enjoy our resort’s beautiful and tranquil setting, and that you will feel comfortable and close to nature.",
+          "phone": "+84 235 3923 791",
+          "website": "http://ancienthousevillage.com/vn/home.html",
+          "star": "4"
+        },
+        {
+          "name": "Anantara Hoi An Resort",
+          "loc": {
+            "lat": 15.8772501,
+            "long": 108.3346723
+          },
+          "location": "1 Phạm Hồng Thái, Cẩm Châu, Hội An, Quảng Nam, Việt Nam",
+          "image": "anantara",
+          "rating": "4.5",
+          "peoplerated": "2223",
+          "type": "Hotel",
+          "desc":"The resort's spacious split-level rooms overlook lush landscaped gardens and tranquil river. Culinary journeys are inspired by the region's varied influences through history and fresh flavours. Indigenous spa journeys revitalise in one of Hoi An’s most peaceful hideaways.",
+          "phone": "+84 235 3914 555",
+          "website": "https://www.anantara.com/",
+          "star": "5"
+        },
+        {
+          "name": "Hoi An Historic Hotel",
+          "loc": {
+            "lat": 15.8799909,
+            "long": 108.3286832
+          },
+          "location":"10 Trần Hưng Đạo, Sơn Phong, Hội An, Quảng Nam, Việt Nam",
+          "image": "historic",
+          "rating": "4.0",
+          "peoplerated": "1841",
+          "type": "Hotel",
+          "desc":"Established in 1991, the Hoi An Hotel is admired for its location, charm, and world-class facilities. Guests can access stunning Cua Dai beach, 4km East, by hopping on a shuttle bus that runs on the fifteen minutes. It is also a quick walk to the Old Town (where clients will inevitably go to visit the tailor’s).",
+          "phone": "+84 235 3861 445",
+          "website": "http://www.hoianhistorichotel.com.vn/",
+          "star": "4"
+        },
+        {
+          "name": "Vinh Hung Riverside Resort & Spa",
+          "loc": {
+            "lat": 15.8741664,
+            "long": 108.3222952
+          },
+          "location": "111 Ngô Quyền, Hội An, Quảng Nam, Việt Nam",
+          "image": "vinhhung",
+          "rating": "4.5",
+          "peoplerated": "1913",
+          "type": "Hotel",
+          "desc":"We are a family run small collection of hotels and resorts. With our various types of hotels that offer amenities and services to meet your individual travel needs, it's easy to find the one that's right for your trip.",
+          "phone": "+84 235 3910 393",
+          "website": "http://www.vinhhunghotels.com.vn/about-us.html",
+          "star": "3"
+        },
+        {
+          "name": "Hoi An Silk Marina Resort & Spa",
+          "loc": {
+            "lat": 15.874499,
+            "long": 108.3200414
+          },
+          "location":"74 18 Tháng 8, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
+          "image": "silk",
+          "rating": "5.0",
+          "peoplerated": "2001",
+          "type": "Hotel",
+          "desc":"Tucked away in the heart of Hoi An and located right on the bank of Thu Bon River, Hoi An Silk Marina Resort and Spa bathes you in the atmosphere of the City of Lantern. With a fusion of graceful European and tropical Asian style, the design hotel offers all the creature comforts you could wish for in a luxury resort. And by night, it’s the perfect place to prolong the magic of Hoi An.",
+          "phone": "+84 235 3938 888",
+          "website": "http://hoiansilkmarina.com",
+          "star": "4"
+        }
+      ]
+    }
+  }
+}
