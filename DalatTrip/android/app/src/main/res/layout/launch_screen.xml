@@ -11,5 +11,3 @@
     android:layout_gravity="center"
     android:src="@drawable/ic_splash"/>
 </LinearLayout>
-
-<!-- https://www.npmjs.com/package/react-native-splash-screen -->

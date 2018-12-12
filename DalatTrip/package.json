@@ -138,11 +138,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thinhbocrazy/Tripss.git"
+    "url": "git+https://github.com/beesightsoft/bss-rct-template.git"
   },
   "keywords": [
-    "CLONE"
+    "bee"
   ],
-  "author": "Noname",
-  "license": "maybe"
+  "author": "beesightsoft",
+  "license": "MIT"
 }
