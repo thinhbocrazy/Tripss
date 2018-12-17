@@ -128,20 +128,6 @@ export default class MainScreen extends Component {
             />
             <Text style={styles.languageChangeButton}>{this.state.lang}</Text>
           </TouchableOpacity>
-
-          {Platform.OS === 'android' ? (
-            <TouchableOpacity
-              style={{position: 'absolute', right: 0, padding: 10}}
-              onPress={() => {
-                HoiAnAR.startNewActivity('com.nhancv.hoianar')
-              }}
-            >
-              <Image
-                source={Images.images.cameraIcon}
-                style={styles.cameraIcon}
-              />
-            </TouchableOpacity>
-          ) : null}
         </View>
 
         <View style={styles.backLayout}>
