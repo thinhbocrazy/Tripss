@@ -5,25 +5,25 @@
     "description": "DESCRIPTION",
     "location": "LOCATION",
     "menu": "MENU",
-    "food": "HOI AN FOOD",
-    "hotel": "HOI AN HOTELS",
-    "place": "HOI AN PLACES",
-    "shop": "HOI AN SHOPS"
+    "food": "Da Lat FOOD",
+    "hotel": "Da Lat HOTELS",
+    "place": "Da Lat PLACES",
+    "shop": "Da Lat SHOPS"
   },
   "category": {
     "food": {
       "title": "Where can I eat?",
-      "desc": "Hoi An is not just famous for its ancient beauty that has been recognized many times worldwide but also for its authentic cuisine",
+      "desc": "Da Lat is not just famous for its nature beauty that has been recognized many times worldwide but also for its authentic cuisine",
       "more_places": "MORE 7+ PLACES",
       "more_info": [
         {
-          "name": "The Temple Restaurant",
+          "name": "Le Petit Dalat - Ana Mandara",
           "loc": {
-            "lat": 15.880014,
-            "long": 108.316384
+            "lat": 11.947452,
+            "long": 108.429574
           },
-          "location": "132 Hùng Vương, Phường Cẩm Phổ, Hội An, Quảng Nam, Việt Nam",
-          "image": "temple",
+          "location": "31 Mai Hắc Đế, Phường 6, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+          "image": "Petit",
           "rating": "5.0",
           "peoplerated": "111",
           "type": "Fine Dining",
@@ -34,153 +34,154 @@
           "times": "6:00 AM - 11:00 PM"
         },
         {
-          "name": "Aubergine49 Restaurant",
+          "name": "Le Rabelais Restaurant",
           "loc": {
-            "lat": 15.883697,
-            "long": 108.335575
+            "lat": 11.936822,
+            "long": 108.44027
+
           },
-          "location": "49 Lý Thái Tổ, Sơn Phong, Hội An, Quảng Nam, Việt Nam",
-          "image": "aubergine49",
+          "location": "02 Trần Phú, Phường 3, Đà Lạt, Việt Nam",
+          "image": "Rabelais",
           "rating": "4.5",
           "peoplerated": "444",
           "type": "Fine Dining",
-          "desc": "Aubergine49 is a modern European fine dining establishment situated a short distance from the UNESCO ancient town of Hoi An. We are the first restaurant of this style of dining in the area. Here at Aubergine49, we believe that giving you a quality experience is of upmost importance. From our locally sourced produce to our finest imported ingredients we are proud to present to you our Eurasian inspired dishes.",
+          "desc": "We dined at Le Rabelais for a special occasion and were impressed with the customer service we received from the staff. The restaurant setting is beautiful and our meal was great. All in all an unforgettable experience.",
           "phone": "+84 235 2212 190",
           "cost": "$$$$",
           "menu": "French, European, Asian, Contemporary, Vegetarian Friendly, Vegan Options, Gluten Free Options",
           "times": "6:00 PM - 10:00 PM"
         },
         {
-          "name": "Herbs And Spices Restaurant",
+          "name": "Artist Alley Restaurant",
           "loc": {
-            "lat": 15.879611,
-            "long": 108.328534
+            "lat": 11.941597,
+            "long": 108.432622
           },
-          "location": "2/6 Lê Lợi, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
-          "image": "herbs",
+          "location": "124/1 Phan Đình Phùng, Đà Lạt, Việt Nam",
+          "image": "Alley",
           "rating": "5.0",
           "peoplerated": "1012",
           "type": "Moderately Priced",
-          "desc": "Unlike other restaurants or cooking classes that you will find in Hoi An, Herbs and Spices Cooking School is only taking small groups for hands on experiences. We are catering for all levels of skill, age and experience.",
+          "desc": "This is a very unique restaurant, down an alley and up stairs to an interesting array of paintings decorating a series of rooms with various tables for most any group. Good wines, a fair beer selection, I had two fish dishes which were delicious. Menu accommodated vegetarian members on one evening. Well worth a look! The owner is a remarkably generous and kind person.          ",
           "phone": "+84 510 3936 886",
           "cost": "$$",
           "menu": "Asian, Vietnamese, International, Fusion, Vegetarian Friendly, Vegan Options, Gluten Free Options",
           "times": ""
         },
         {
-          "name": "Shore Club An Bang Beach",
+          "name": "M Bistro Café & Restaurant",
           "loc": {
-            "lat": 15.913791,
-            "long": 108.340795
+            "lat": 11.943503,
+            "long": 108.435104
           },
-          "location": "Hai Bà Trưng, Hội An, Quảng Nam, Việt Nam",
-          "image": "shore",
+          "location": "25 Trương Công Định, Đà Lạt 670000, Việt Nam          ",
+          "image": "Bistro",
           "rating": "5.0",
           "peoplerated": "313",
           "type": "Moderately Priced",
-          "desc": "Absolute beach front dining and reviving. Ready to tantalise your taste buds 7 days a week from 7am till late.",
+          "desc": "The food was really good and there was some original dishes. The restaurant is very quiet, the background music is very relaxing, it’s so peaceful. Plus, the waiter is so kind and nice which enhance the whole experience, I recommend this bistrot!          ",
           "phone": "+84 120 460 4861",
           "cost": "$$",
           "menu": "International, Vietnamese, Seafood, Fusion, Vegetarian Friendly, Gluten Free Options",
           "times": "7:00 AM - 11:00 PM"
         },
         {
-          "name": "Restaurant & Cafe Tuan",
+          "name": "Chu Quan BBQ Grill",
           "loc": {
-            "lat": 15.876412,
-            "long": 108.346173
+            "lat": 11.937554,
+            "long": 108.43579
           },
-          "location": "170 Trần Nhân Tông, Cẩm Châu, Hội An, Quảng Nam, Việt Nam",
-          "image": "cafe",
+          "location": "3 Pham Ngu Lao St | Ward 3, Đà Lạt, Việt Nam          ",
+          "image": "Quan",
           "rating": "5.0",
           "peoplerated": "1343",
           "type": "Cheap Eats",
-          "desc": "Come and dine at Tuan Restaurant & Cafe. We offer a variety of delicious food from the west and from right here in Hoi An. Pizza, burgers, and more!",
+          "desc": "We had the beef bbq and it was a different experience all together, the beef tasted great and the 3 extra dishes we ordered, the green vegetables, fried tofu and fried rice were of good size and tasty.           ",
           "phone": "+84 90 570 66 74",
           "cost": "$",
           "menu": "Italian, Pizza, European, Asian, Vietnamese, Vegetarian Friendly, Vegan Options, Gluten Free Options",
           "times": "12:00 PM - 9:00 PM"
         },
         {
-          "name": "Simple Bar and Restaurant (Rose's kitchen)",
+          "name": "Wheel House Dalat Restaurant",
           "loc": {
-            "lat": 15.889468,
-            "long": 108.377787
+            "lat": 11.943962,
+            "long": 108.434526
           },
-          "location": "Âu Cơ, Cửa Đại, Hội An, Quảng Nam, Việt Nam",
-          "image": "simple",
+          "location": "51 Trương Công Định, P.1, Đà Lạt, Việt Nam          ",
+          "image": "Wheel",
           "rating": "5.0",
           "peoplerated": "105",
           "type": "Cheap Eats",
-          "desc": "Simple restaurant is a restaurant that has a great gastronomic space with a fine combination of Asian cuisine culture and bold beauty of Vietnam.",
+          "desc": "Amazing food prepared in a tiny kitchen and everything freshly made , for sure trying out if you go to Da Lat          ",
           "phone": "+84 166 951 1881",
           "cost": "$",
           "menu": "Seafood, European, Asian, Vietnamese, Gastropub, Vegetarian Friendly, Vegan Options, Gluten Free Options",
           "times": "11:00 AM - 10:00 PM"
         },
         {
-          "name": "Rosie's cafe",
+          "name": "Biang Bistro Restaurant",
           "loc": {
-            "lat": 15.877663,
-            "long": 108.325648
+            "lat": 11.944089,
+            "long": 108.440011
           },
-          "location": "8/6 Nguyễn Thị Minh Khai, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
-          "image": "frenchBakery",
+          "location": "Số 2 Lý Tự Trọng, Phường 2, Đà Lạt, Việt Nam          ",
+          "image": "Biang",
           "rating": "5.0",
           "peoplerated": "512",
           "type": "Breakfast",
-          "desc": "Rosie’s Café on Nguyen Thi Minh Khai Street, just up the alley from Nu Eatery, is a delightful marriage of Vietnamese coffee tradition and modern aesthetics. Rosie’s offers a wide selection of coffee beverages and fresh juices along with a calm, cool space to have a chat, read, or work.",
+          "desc": "Literally everything we ate was delicious. Each and every dish (from the fresh spring rolls to the wasabi corn) had a interesting and new flavour to us. The chef is cooking right next to your table. A must go in Da Lat          ",
           "phone": "+84 90 531 24 33",
           "cost": "$",
           "menu": "Cafe, International, Healthy, Vegetarian Friendly, Vegan Options, Gluten Free Options",
           "times": "9:00 AM - 5:00 PM"
         },
         {
-          "name": "French Bakery and Restaurant",
+          "name": "French Touch Coffe          ",
           "loc": {
-            "lat": 15.913642,
+            "lat": 11.913642,
             "long": 108.336849
           },
-          "location": "Cẩm An, Hội An, Quảng Nam, Việt Nam",
-          "image": "rosie",
+          "location": "41 Hai Bà Trưng | Phường 6, Đà Lạt, Việt Nam          ",
+          "image": "FrenchTouch",
           "rating": "4.5",
           "peoplerated": "310",
           "type": "Breakfast",
-          "desc":"French and Vietnamese food in an outdoor setting. At An Bang Beach Village we serve breakfast, lunch and dinner 7 days a week.",
+          "desc":"A very sweet cafe, lovely atmosphere, really yummy muesli with fresh banana and honey! The cats were so cute too! Thank you for a fab breakfast!",
           "phone": "+84 128 868 9643",
           "cost": "$",
           "menu":"French, Vietnamese, Cafe, Asian, Vegetarian Friendly, Gluten Free Options, Vegan Options",
           "times": "7:00 AM - 9:00 PM"
         },
         {
-          "name": "Tra Que Garden Cooking Class & Restaurant",
+          "name": "Da Quy Restaurant",
           "loc": {
-            "lat": 15.901926,
-            "long": 108.339727
+            "lat": 11.944834,
+            "long": 108.434294
           },
-          "location": "Hai Bà Trưng, Cẩm Hà, Hội An, Quảng Nam, Việt Nam",
-          "image": "traQue",
+          "location": "119 Phan Đình Phùng, Đà Lạt 61000, Việt Nam",
+          "image": "Daquy",
           "rating": "5.0",
           "peoplerated": "276",
           "type": "Local",
-          "desc":"Spending a half-day of living, working, and cooking with the local people in the Organic vegetable village will be a great chance for you to discover the daily life of the farmers and of course to become a “real local chef”!",
+          "desc":"Brilliant food and service. The owner is absolute G, good English and just so lovely. Would recommend this place if you’re visiting Dalat.          ",
           "phone": "+84 90 286 66 03",
           "cost": "$",
           "menu":"Asian, Vietnamese, Vegan Options, Gluten Free Options, Vegetarian Friendly",
           "times": "9:00 AM - 4:00 PM"
         },
         {
-          "name": "Nhan's Kitchen",
+          "name": "Hoang Anh Restaurant",
           "loc": {
-            "lat": 15.878034,
-            "long": 108.345139
+            "lat": 11.949494,
+            "long": 108.440377
           },
-          "location":"167 Trần Nhân Tông, Cẩm Châu, Hội An, Quảng Nam, Việt Nam",
-          "image": "nhans",
+          "location":"1000 Nguyễn Thị Nghĩa, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "Hanh",
           "rating": "5.0",
           "peoplerated": "731",
           "type": "Local",
-          "desc":"In Hoi An it’s common for the cheaper restaurants to have huge pizza sections. These orders are sub-contracted to third parties.Nhan’s Kitchen make their own however, and they’re surprisingly good; quite possibly the best pizza value-for-money in town. Try the Four Cheeses Pizza on for size at just 80,000 VND!",
+          "desc":"Very good (organic!) ingredients and a very friendly and helpful staff that kindly showed us how to correctly eat that dish.          ",
           "phone": "+84 90 518 68 67",
           "cost": "$",
           "menu":"Italian, Bar, Pizza, Asian, Vietnamese, Vegetarian Friendly, Vegan Options, Gluten Free Options",
@@ -190,303 +191,330 @@
     },
     "place": {
       "title": "Where can I visit?",
-      "desc": "Hoi An has a lot of places to see and things to do, you will never be bored",
+      "desc": "Da Lat has a lot of places to see and things to do, you will never be bored",
       "more_places": "MORE 7+ PLACES",
       "more_info": [
         {
-          "name": "An Bang Beach",
+          "name": "Linh Phuoc Pagoda          ",
           "loc": {
-            "lat": 15.913796,
-            "long": 108.3386063
+            "lat": 11.944579            ,
+            "long": 108.499673
+
           },
-          "location": "Hai Bà Trưng, Hội An, Quảng Nam, Việt Nam",
-          "image": "anBang",
+          "location": "120 Tự Phước Thành Phố Đà Lạt, Phường 11, Thành phố Đà Lạt, Lâm Đồng, Vietnam          ",
+          "image": "LPhuoc",
           "rating": "5.0",
           "peoplerated": "135",
           "type": "Beach",
-          "desc":"Tranquil, tree-lined beach featuring white sand, palapas, lounge chairs & eateries."
+          "desc":"This pagoda is very impressive especially the intricate workmanship that has gone into making it. He if you need to use the toilet just beware that they are squat toilets. Lots of history and photo opportunities her. Well worth a visit          "
         },
         {
-          "name": "Fukian Assembly Hall",
+          "name": "Elephant Falls          ",
           "loc": {
-            "lat": 15.877512,
-            "long": 108.330547
+            "lat": 11.82396            ,
+            "long": 108.334686
+
           },
-          "location": "46 Trần Phú, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
-          "image": "fujian",
+          "location": "Gia Lâm, Đà Lạt, Việt Nam          ",
+          "image": "Elephant",
           "rating": "4.0",
           "peoplerated": "808",
           "type": "Tourist Spot",
-          "desc":"Each of the many animal statues in this stunning meeting hall symbolize some life quality such as wisdom, longevity and nobility; Chinese merchants from the Phuc Kien province built this structure in 1697."
+          "desc":"It was a nice visit to the waterfall, which was a part of a day trip with many stops. You can go down the base of the waterfall through a small cave, and experience up close how powerful the water stream is          "
         },
         {
-          "name": "Lune Performing Center Hoi An",
+          "name": "Valley of Love          ",
           "loc": {
-            "lat": 15.875217,
-            "long": 108.328802
+            "lat": 11.980129            ,
+            "long": 108.449914
+
           },
-          "location":"Công viên Đồng Hiệp, Phố cổ, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
-          "image": "lune",
+          "location":"Phường 8, Đà Lạt          ",
+          "image": "Love",
           "rating": "4.5",
           "peoplerated": "20273",
           "type": "Tourist Spot",
-          "desc":"Known for A O Show, My Village, Teh Dar, and The Mist, spectacles that charm audience in Saigon, Hanoi, and 4 continents around the world, Lune Production now comes to Hoi An. Our own established venue, Lune Performing Center Hoi An, begins welcoming local and international guests to amazing cultural expreriences from January 2018."
+          "desc":"The large garden that makes you fresh. You need to pay the entrance ticket to enjoy the colorful flower garden. My recommendation for this place is suitable for own trip no tour guide. If you have time to spend in the garden it will fulfill and relax your soul.          "
         },
         {
-          "name": "Van Duc Pagoda",
+          "name": "Lam Vien Square          ",
           "loc": {
-            "lat": 15.904602,
-            "long": 108.321793
+            "lat": 11.938789            ,
+            "long": 108.445042
           },
-          "location": "Cẩm Hà, Hội An, Quảng Nam, Việt Nam",
-          "image": "vanDuc",
+          "location": "Phường 10, Đà Lạt          ",
+          "image": "LamVien",
           "rating": "4.5",
           "peoplerated": "40",
           "type": "Tourist Spot",
-          "desc":"Van Duc, one of the largest pagodas in Hoi An, is home to monks who are sometimes happy to give you a quick tour of the pagoda and its grounds."
+          "desc":"Good place to walk around to stretch your legs. Also a good place for little kids to run around and having a good time.          "
         },
         {
-          "name": "Japanese Covered Bridge",
+          "name": "Dalat Railway Station          ",
           "loc": {
-            "lat": 15.877118,
-            "long": 108.326104
+            "lat": 11.941614            ,
+            "long": 108.454463
           },
-          "location":"Nguyễn Thị Minh Khai, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
-          "image": "japaneseBridge",
+          "location":"Quang Trung, P10, Đà Lạt          ",
+          "image": "Station",
           "rating": "4.0",
           "peoplerated": "7504",
           "type": "Tourist Spot",
-          "desc":"A local favorite, construction on this covered bridge began in the Year of the Monkey (1593) and was finished in the Year of the Dog (1595), hence the monkey and dog sculptures at either end."
+          "desc":"Interesting place to see historic train memorabilia. Inexpensive. Had a cup of coffee in one of the converted rail cars and wandered around for 30 minutes or so. Won’t take much time to see it all.          "
         },
         {
-          "name": "The Old House of Phung Hung",
+          "name": "Cu Lan Village          ",
           "loc": {
-            "lat": 15.877192,
-            "long": 108.325801
+            "lat": 12.025958            ,
+            "long": 108.363705
           },
-          "location":"4 Nguyễn Thị Minh Khai, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
-          "image": "oldHouse",
+          "location":"ĐT722, Lát, Lạc Dương, Lâm Đồng, Vietnam          ",
+          "image": "CuLan",
           "rating": "3.5",
           "peoplerated": "414",
           "type": "Tourist Spot",
-          "desc":"With over 100 years old, the Phung Hung House has a unique structure with high wooden logs and broad corridors, reflecting the development of architecture and the interplay of Asian architectural styles in Hoi An in the past centuries."
+          "desc":"Cu Lan village with the name of the meaning of foolish, foolish but really it is a worthy place to go. Here the air is always cool, sometimes a little cold. Old homes are retained by the people as a preserve of cultural quintessence. The freshness and romance will definitely make many people fall in love."
         },
         {
-          "name": "Tra Que Village",
+          "name": "Lang Biang          ",
           "loc": {
-            "lat": 15.902439,
-            "long": 108.337633
+            "lat": 12.011821            ,
+            "long": 108.418609
           },
-          "location": "Cẩm Hà, Hội An, Quảng Nam, Việt Nam",
-          "image": "traQue",
+          "location": "tt Lạc Dương, Lâm Đồng          ",
+          "image": "LangBiang",
           "rating": "4.5",
           "peoplerated": "494",
           "type": "Tourist Spot",
-          "desc":"Tra Que is a charming little village on the edge of Hoi An, the village is named after the sweet scented vegetables that spice up the everyday meals of the Pho Hoi people. Experience a day of living and working with the local people in Tra Que vegetable village, in which you will have a chance to discover the daily life of farmers."
+          "desc":"Lang Biang at 2187 m is a great hike. Moderate to hard ( last 350 mates ) are surely hard. Good to take a guide as the interesting path is through a forest and is easy to get lost          "
         },
         {
-          "name": "Hoi An Museum of History & Culture",
+          "name": "Tuyen Lam Lake          ",
           "loc": {
-            "lat": 15.880269,
-            "long": 108.329463
+            "lat": 11.905647            ,
+            "long": 108.431988
           },
-          "location": "10B Trần Hưng Đạo, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
-          "image": "history",
+          "location": "Phường 4, Dalat, Lâm Đồng, Vietnam          ",
+          "image": "TuyenLam",
           "rating": "3.0",
           "peoplerated": "111",
           "type": "museum",
-          "desc":"The Quan Yin pagoda houses this history museum that contains artifacts covering two thousand years of Hoi An culture."
+          "desc":"Come here at early morning or at dawn to see the most beautiful moments at the lake. Besides, you can try some bbq house nearby the lake.          "
         },
         {
-          "name": "Hoi An Museum of Trade Ceramics",
+          "name": "Dalat Park",
           "loc": {
-            "lat": 15.877291,
-            "long": 108.329522
+            "lat": 11.951022
+            ,
+            "long": 108.446659
+
           },
-          "location": "80 Trần Phú, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
-          "image": "ceramics",
+          "location": "2 Trần Nhân Tông, Phường 8, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "Park",
           "rating": "3.5",
           "peoplerated": "132",
           "type": "museum",
-          "desc":"Hoi An Ceramic Museum is an indispensable destination in Hoi An's discovery journey. Not only can you see the ancient pottery and pottery in four directions, but also have the opportunity to learn more about the prosperity of the commercial port of Hoi An."
+          "desc":"We have visited this flowers farm in October 2018, fully recommend for those who like gardening, here planted many difference types of flowers we haven't seen before. Nice to have photograph here.          "
         },
         {
-          "name": "Precious Heritage Art Gallery Museum",
+          "name": "Valley of Lights          ",
           "loc": {
-            "lat": 15.877089,
-            "long": 108.334208
+            "lat": 11.943136
+            ,
+            "long": 108.487648
+
           },
-          "location": "26 Phan Bội Châu, Hội An, Quảng Nam, Việt Nam",
-          "image": "heritage",
+          "location": "dốc số 7, Trại Mát, Thành phố Đà Lạt, Lâm Đồng, Vietnam          ",
+          "image": "Lights",
           "rating": "5.0",
           "peoplerated": "512",
           "type": "museum",
-          "desc":"A 250m2 display of photos and artifacts collected during the last 5 years of Rehahn's exploration of Vietnam. Entrance for this cultural experience is free. English, French and Vietnamese available"
+          "desc":"this valley the most even, it is so big alike the Love valley or the other parks in Dalat. Peacel, calm, beautiful scenery, some animals, especially the way to valley with 2 fences of straight pines!          "
         }
       ]
     },
     "shop": {
       "title": "Where can I shop?",
       "desc":
-        "Hoi an is filled with places to shop from local markets to specialised stores",
+        "Da Lat is filled with places to shop from local markets to specialised stores",
       "more_places": "MORE 7+ PLACES",
       "more_info": [
         {
-          "name": "Friendly Leather Bags Shop",
+          "name": "Dalat Market",
           "loc": {
-            "lat": 15.8769476,
-            "long": 108.3337922
+            "lat": 11.943237
+            ,
+            "long": 108.437388
+
           },
-          "location": "44 Đường Phan Bội Châu, Cẩm Châu, Hội An, Quảng Nam, Việt Nam",
-          "image": "friendly_shop",
+          "location": "Số 10 Phan Bội Châu, Phường 1, Thành phố Đà Lạt, Lâm Đồng, Vietnam          ",
+          "image": "Market",
           "rating": "5.0",
           "peoplerated": "577",
           "type": "Handicraft shop",
-          "desc":"Friendly bags is the only one bags shop in Hoi An. We are able to make travel bags, handbags, bags for laptop or iPad and wallets to measure. In less than one day, you can receive your bags after had chosen your design and the fabric.",
+          "desc":"Definitely worth a walk around these markets. Lots to see and smell. Cheap clothes and souvenirs etc. A good experience to feel what the local markets are like. And to visit the 100 roof bar is so much fun. Buy a drink and get lost exploring all the crazy and funky tunnels to reach the top. Definitely a must do in Dalat          ",
           "phone": "+84 93 521 13 82",
           "website": "friendlybaghoian.com",
           "times": "9:00 AM - 9:00 PM"
         },
         {
-          "name": "Dé Lantana Silk Lantern & Lamp",
+          "name": "XQ Vietnam",
           "loc": {
-            "lat": 15.883083,
-            "long": 108.335871
+            "lat": 11.977588
+            ,
+            "long": 108.447983
+
           },
-          "location": "35 Lý Thái Tổ, Sơn Phong, Hội An, Quảng Nam, Việt Nam",
-          "image": "de_lantana",
+          "location": "258 Mai Anh Đào, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "XQ",
           "rating": "4.7",
           "peoplerated": "36",
           "type": "Handicraft shop",
-          "desc":"Dé Lantana Silk Lantern & Lamp is also a reliable place for purchasing traditional as well as modern lanterns and lamps. Gorgeous lanterns are available here and all are at reasonable prices.",
+          "desc":"It is beyond what words could describe. I am so proud of Vietnamese people. They are so talented in many ways. I love the country so much.          ",
           "phone": "+84 235 6288 789",
           "website": "http://www.delantana.com/",
           "times": "7:30 AM - 5:00 PM"
         },
         {
-          "name": "Night Market",
+          "name": "3D Trickland Museum",
           "loc": {
-            "lat": 15.875923,
-            "long": 108.325948
+            "lat": 11.942731
+            ,
+            "long": 108.438134
+
           },
-          "location": "Đường Nguyễn Hoàng, Hội An, Quảng Nam, Việt Nam",
-          "image": "night_market",
+          "location": "3 Lê Thị Hồng Gấm, Phường 1, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "Trickland",
           "rating": "4.1",
           "peoplerated": "142",
           "type": "Market",
-          "desc":"Hoi An Night Market, occupying Nguyen Hoang Street in the centre of town, consists of over 50 local vendors selling a variety of local snacks, trinkets, clothing, jewellery, and accessories. Widely regarded as one of the most popular markets in Vietnam, it occupies a 300-metre-long street that overlooks Thu Bon River and is illuminated by hundreds of colourful lanterns, making a popular spot for photography as well.",
+          "desc":"There are realistic paintings and over 10 themes of trick art zones and many things to adventure. Inside of this museum I can have pictures all over the world!!          ",
           "phone": "",
           "website": "",
           "times": "5:00 PM - 11:00 PM"
         },
         {
-          "name": "Central Market",
+          "name": "Labata Handmade",
           "loc": {
-            "lat": 15.876824,
-            "long": 108.33128
+            "lat": 11.944424
+            ,
+            "long": 108.434096
+
           },
-          "location":"73 Phan Bội Châu, Sơn Phong, Hội An, Quảng Nam, Việt Nam",
-          "image": "central_market",
+          "location":"64 Phan Đình Phùng, Dalat, Lâm Đồng          ",
+          "image": "Labata",
           "rating": "4.0",
           "peoplerated": "213",
           "type": "Market",
-          "desc":"Resting on the banks of the Thu Bon River, bustling Hoi An Central Market is certainly worth a look for its authentic slice of Vietnamese life. The market is busy throughout the day with locals bargaining hard alongside tourists so its best to arrive first thing in the morning. The negotiating over fish usually starts around 07:00 as the fishermen drop their catch off and the market vendors and local buyers dive in to get the best fish. Be warned that it can get very messy, nevertheless it's certainly a sight not to be missed. Inside the market there are also plenty of live ducks and chickens tied together and ready for sale alongside row upon row of Vietnamese cooking ingredients. The smell can get quite strong as the day heats up and the market will also become a lot busier and louder as the day progresses. If you want to avoid this, then head to the east side and the large shed type building which houses the tailors and all manner of Asian silk and textiles.",
+          "desc":"Really enjoyed looking at all of the handmade goods in Labata! We bought some essential oils and did a bookbinding course where we learnt to make notebooks in the style sold in the shop. Great fun, definitely recommend!          ",
           "phone": "",
           "website": "",
           "times": "5:00 AM - 4:00 PM"
         },
         {
-          "name": "Hoi An Lantern Shop",
+          "name": "Namsilk          ",
           "loc": {
-            "lat": 15.880543,
-            "long": 108.298083
+            "lat": 11.943667
+            ,
+            "long": 108.434969
+
           },
-          "location": "424 Hùng Vương, Thanh Hà, Hội An, Quảng Nam, Việt Nam",
-          "image": "hoian_lantern_shop",
+          "location": "34 Trương Công Định, Phường 1, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "Namsilk",
           "rating": "4.2",
           "peoplerated": "13",
           "type": "Handicraft shop",
-          "desc":"Hoi An Lantern will welcome you to a colorful world of beautiful lanterns with myriad products for you to choose. Friendly staff will introduce you wonderful lanterns product.",
+          "desc":" It is really interesting and really worth a look. I have been to other silk places in other countries, and found this a bit more authentic, a bit raw. It was good. What they have to offer for sale is quite reasonably priced.          ",
           "phone": "+84 93 586 31 49",
           "website": "",
           "times": "9:00am - 5:00pm"
         },
         {
-          "name": "Couleurs d’Asie Gallery",
+          "name": "DL Nature's          ",
           "loc": {
-            "lat": 15.877985,
-            "long": 108.331375
+            "lat": 11.533905
+            ,
+            "long": 107.828553
+
           },
-          "location":"7 Nguyễn Huệ, Cẩm Châu, Hội An, Quảng Nam, Việt Nam",
-          "image": "coleurs_dasie",
+          "location":"125 Quốc lộ 20 | Tổ Lâm Văn Thạnh, Phường 11, Đà Lạt, Việt Nam          ",
+          "image": "DLnature",
           "rating": "5.0",
           "peoplerated": "521",
           "type": "Gallery",
-          "desc":"This is the 2nd gallery of Réhahn in Hoi An. In the gallery, Réhahn has displayed some of his best work with some limited editions certified by the photographer himself; also showcasing his book and variety of postcards. Once you step into an art gallery, it’s really hard to stop yourself from getting a piece of art, painted by the talented local artisans.",
+          "desc":"Prices are lower than those of Lang's Farm with similar quality.          ",
           "phone": "+84 235 3911 382",
           "website": "http://www.rehahnphotographer.com/",
           "times": "8:00 AM - 8:00 PM"
         },
         {
-          "name": "Hung Long Art Gallery",
+          "name": "L'angfarm Store          ",
           "loc": {
-            "lat": 15.8765561,
-            "long": 108.3273384
+            "lat": 11.943812
+            ,
+            "long": 108.417125
+
           },
-          "location": "105 Nguyễn Thái Học, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
-          "image": "hunglong_gallery",
+          "location": "1b Hoàng Văn Thụ, Phường 5, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "Langfarm",
           "rating": "4.5",
           "peoplerated": "26",
           "type": "Gallery",
-          "desc":"This is the gallery of Nguyen Trung Viet, a talented Vietnamese artist. His shop owns an array of painting works exhibited. With taken lacquer material primarily, he blows his soul to each picture describing Vietnamese girls in charming ao dai.",
+          "desc":"L'angfarm Store is a chain of specialty retail shops in Dalat that we directly build and operate in order to: Deliver Dalat specialty products that are safe, quality and beautiful; Carry standardized goods at the best controlled prices          ",
           "phone": "+84 235 3861 524",
           "website": "",
           "times": "9:00 AM - 9:00 PM"
         },
         {
-          "name": "Reaching Out Arts & Crafts",
+          "name": "Lavender Shop          ",
           "loc": {
-            "lat": 15.876573,
-            "long": 108.327584
+            "lat": 11.94487
+            ,
+            "long": 108.439303
+
           },
-          "location":"103 Nguyễn Thái Học, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
-          "image": "reaching_out",
+          "location":"47 Bùi Thị Xuân, Phường 2, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "Lavender",
           "rating": "5.0",
           "peoplerated": "768",
           "type": "Handicraft shop",
-          "desc":"Reaching Out is a local business in an array of exquisitely crafted goods and gracious services. They have many authentic Vietnamese products and experiences there, such as: jewelry, living, tea and coffee. The unique items you buy or the experiences you enjoy at Reaching Out give the gift of opportunity to the skilled artisans and servers, both able bodied and the disabled.",
+          "desc":"Lavender flowers, vases, gift boxes, essential oils, fragrant bags, cosmetics from Lavender.          ",
           "phone": "+84 235 3910 168",
           "website": "https://reachingoutvietnam.com",
           "times": "8:30 AM – 9:30 PM"
         },
         {
-          "name": "Sunny Cloth Shop",
+          "name": "Laine Lana          ",
           "loc": {
-            "lat": 15.8775449,
-            "long": 108.3293326
+            "lat": 11.950291
+            ,
+            "long": 108.463698
+
           },
-          "location": "9 Trần Phú, Cẩm Châu, Hội An, Quảng Nam, Việt Nam",
-          "image": "sunny_shop",
+          "location": "6 Lữ Gia, Phường 9, Dalat, Lâm Đồng          ",
+          "image": "Lana",
           "rating": "5.0",
           "peoplerated": "446",
           "type": "Clothes shop",
-          "desc":"Get a bespoke formal or casual outfit done at Hoa Nang Sunny Cloth Shop. The store offers custom-made men's and women's apparel, including business suits, formalwear, winter coats, and other clothing items.",
+          "desc":"GiftShop for resonable price          ",
           "phone": "+84 129 765 6275",
           "website": "",
           "times": "9:00 AM - 9:00 PM"
         },
         {
-          "name": "A Dong Silk Tailors",
+          "name": "TG GiftShop          ",
           "loc": {
-            "lat": 15.8798636,
-            "long": 108.326232
+            "lat": 11.935832
+            ,
+            "long": 108.438474
+
           },
-          "location":"62 Trần Hưng Đạo, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
-          "image": "a_dong_silk",
+          "location":"7 Nhà Chung, Phường 4, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "TG",
           "rating": "5.0",
           "peoplerated": "3690",
           "type": "Clothes shop",
-          "desc":"Established in 1997, A Dong Silk is a leader in bespoke personal tailoring in Vietnam. It has earned a global reputation for delivering modern, stylish, high quality garments that fit all body types, perfectly.",
+          "desc":"Another giftshop          ",
           "phone": "+84 235 3910 579",
           "website": "",
           "times": "8:00 AM - 9:30 PM"
@@ -495,165 +523,185 @@
     },
     "hotel": {
       "title": "Where can I stay?",
-      "desc": "Hoi An has a large range of hotels, to enjoy you stay in comfort",
+      "desc": "Da Lat has a large range of hotels, to enjoy you stay in comfort",
       "more_places": "MORE 7+ PLACES",
       "more_info": [
         {
-          "name": "Hoi An Hippie House",
+          "name": "ZEN Valley Dalat          ",
           "loc": {
-            "lat": 15.9151322,
-            "long": 108.3326321
+            "lat": 11.931796
+            ,
+            "long": 108.459057
+
           },
-          "location":"Tổ 5, Khối An Bang, Cẩm An, Hội An, Quảng Nam, Việt Nam",
-          "image": "hippie",
+          "location":"38 Khe Sanh, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "ZenValley",
           "rating": "5.0",
           "peoplerated": "49",
           "type": "Homestay",
-          "desc":"The Hoi An Hippie House is located in Hoi An’s lovely fishing village An Bang. It consists of four casual private hippie rooms and a hippie loung.",
+          "desc":"this place is a gem. It is located on a very picturesque side of Dalat. All is safe, clean and absolutely beautiful. There is a view out on to a lovely valley filled with pine trees.          ",
           "phone": "+84 125 348 3356",
           "website": "http://thehippiehouse.vn",
           "star": "2"
         },
         {
-          "name": "Bamboo Homestay",
+          "name": "Hang Nga Villa         ",
           "loc": {
-            "lat": 15.8829458,
-            "long": 108.3462759
+            "lat": 11.934722
+            ,
+            "long": 108.430857
+
           },
-          "location":"Cẩm Châu, Hội An, Cẩm Châu, Vietnam, Quảng Nam, Việt Nam",
-          "image": "bamboo",
+          "location":"3 Huỳnh Thúc Kháng, Phường 4, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "HangNga",
           "rating": "4.7",
           "peoplerated": "128",
           "type": "Homestay",
-          "desc":"A quiet backyard, a cooling pool, a tranquil reading corner, and a hot latte. At Bamboo Hoi An Homestay, we shall serve you all. Just a little note to wish you a very graceful new week.",
+          "desc":"This is arguably the most unique place one could stay. The staffs are incredibly friendly, and the room is cozy. The best part is you can explore through the buildings in quiet settings, before, or after the tourists are visiting. The downsides are 1. It's too dark in the room. 2. If you happen to stay in your room during public hours, visitors will try to open your door every 2 minutes which is really annoying after a while. However, the stay itself is very pleasant to top the negatives           ",
           "phone": "+84 235 6531 952",
           "website": "https://www.facebook.com/bamboohomestay/",
           "star": "2"
         },
         {
-          "name": "Almond Villa Hoi An",
+          "name": "Dalat BackPackers Hotel          ",
           "loc": {
-            "lat": 15.8916071,
-            "long": 108.3117183
+            "lat": 11.936392
+            ,
+            "long": 108.441037
+
           },
-          "location":"230 Nguyễn Chí Thanh, Tân An, Hội An, Quảng Nam, Việt Nam",
-          "image": "almond",
+          "location":"11 Hà Huy Tập, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "Backpacker",
           "rating": "4.7",
           "peoplerated": "138",
           "type": "Homestay",
-          "desc":"The Almond Villa Hoi An is located at 230 Nguyen Chi Thanh St., in Hoi An Ancient Town. The homestay has 9 room & an outdoor pool, guests can enjoy a drink at the bar. Rooms are equipped with a flat-screen TV.  A welcome drink and fresh fruit is a served while completing check in. The gardens and pool area are beautiful and the rooms spacious and clean, great breakfast. Staff are very friendly, helpful. and professional service. Wifi is available, free bikes are great, free private parking.",
+          "desc":"100% Amazing trip, such a great day with great tour guides that give lots interesting information and stop off and show lots of things not just waterfalls, would recommend to everyone, best day in Vietnam          ",
           "phone": "+84 90 513 14 20",
           "website": "",
           "star": "2"
         },
         {
-          "name": "Gia Lam Villa Hoi An",
+          "name": "Dalat Sky Hotel          ",
           "loc": {
-            "lat": 15.8828023,
-            "long": 108.3435827
+            "lat": 11.949316
+            ,
+            "long": 108.438483
+
           },
-          "location": "Lý Thường Kiệt - Trần Nhân Tông, Sơn Phong, Cẩm Châu, Hội An, Quảng Nam",
-          "image": "gialam",
+          "location": "27 Võ Thị Sáu, Phường 2, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "Sky",
           "rating": "4.7",
           "peoplerated": "255",
           "type": "Homestay",
-          "desc": "Featuring free bikes, Gia Lam Villa Hoi An is located in Hoi An, a 15-minute walk from Assembly Hall of Chaozhou Chinese Congregation. Among the facilities of this property are a restaurant, a 24-hour front desk and a concierge service, along with free WiFi. Guests can have a cocktail at the bar.",
+          "desc": "Clean and friendly hostel. The family dinner was great fun. Central location, comfortable beds and good wifi. Highlight was the staff who were very welcoming and helpful. We went canyoning where they offer free spare runners and cleaning service. Cheap beer (15k) and ordered our taxi to the airport which we prepaid to avoid hostel. Big shootout to all of the staff! Would highly recommend!          ",
           "phone": "0235 3923 791",
           "website":"https://vi-vn.facebook.com/GIA-L%C3%82M-Villa-243449476123462/",
           "star": "3"
         },
         {
-          "name": "Victoria Hoi An Beach Resort & Spa",
+          "name": "Tiny Tigers Hotel          ",
           "loc": {
-            "lat": 15.8954195,
-            "long": 108.3696932
+            "lat": 11.938332
+            ,
+            "long": 108.432029
+
           },
-          "location": "Âu Cơ, Biển Cửa Đại, Hội An, Quảng Nam",
-          "image": "victoria",
+          "location": "77 Đoàn Thị Điểm, Phường 4, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "Tiger",
           "rating": "4.5",
           "peoplerated": "2429",
           "type": "Hotel",
-          "desc":"The Victoria Hoi An Beach Resort & Spa has 109 rooms in a variety of sizes and styles featuring Japanese, classic French or traditional Vietnamese décor. The heart of the resort is a stunning coconut-tree fringed pool overlooking the ocean and beyond, the ideal place to simply be while away the day with refreshing cocktail in hand.",
+          "desc":"Amazing stay amazing staff. Leo the owner is one of a kind he’s so welcoming family owned hostel . Leo’s bike tour highly recommend. Hostel really clean comfy beds nice blankets fluffy soft, good WiFi, nice showers          ",
           "phone": "+ 84 235 3927 040",
           "website":"https://www.victoriahotels.asia/vi/hotels-resorts/hoian.html",
           "star": "3"
         },
         {
-          "name": "Ancient House Village Resort & Spa",
+          "name": "Sammy Dalat Hotel          ",
           "loc": {
-            "lat": 15.8819123,
-            "long": 108.3452566
+            "lat": 11.93438
+            ,
+            "long": 108.431668
+
           },
-          "location": "Cẩm Thanh, Hội An, Quảng Nam, Việt Nam",
-          "image": "ancient",
+          "location": "1 Lê Hồng Phong, Phường 4, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "Sammy",
           "rating": "4.5",
           "peoplerated": "1166",
           "type": "Hotel",
-          "desc":"We warmly welcome you to the Ancient House Village Resort and Spa, and we wish you a very peaceful, serene, and pleasant stay with us.  We hope you will enjoy our resort’s beautiful and tranquil setting, and that you will feel comfortable and close to nature.",
+          "desc":"It was romantic and charming. I loved the style and opulence. The staff were lovely and the breakfast was good. We were able to easily walk to the night markets which were great. DaLat is a beautiful place which I will happily return.          ",
           "phone": "+84 235 3923 791",
           "website": "http://ancienthousevillage.com/vn/home.html",
           "star": "4"
         },
         {
-          "name": "Anantara Hoi An Resort",
+          "name": "La Sapinette Dalat Hotel          ",
           "loc": {
-            "lat": 15.8772501,
-            "long": 108.3346723
+            "lat": 11.952145
+            ,
+            "long": 108.468657
+
           },
-          "location": "1 Phạm Hồng Thái, Cẩm Châu, Hội An, Quảng Nam, Việt Nam",
-          "image": "anantara",
+          "location": "1 Phan Chu Trinh, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "Sapinette",
           "rating": "4.5",
           "peoplerated": "2223",
           "type": "Hotel",
-          "desc":"The resort's spacious split-level rooms overlook lush landscaped gardens and tranquil river. Culinary journeys are inspired by the region's varied influences through history and fresh flavours. Indigenous spa journeys revitalise in one of Hoi An’s most peaceful hideaways.",
+          "desc":"it is a nice place to relax and enjoy, but it is quite far from night market and central area. The staffs were quite friendly and helpful but they were not professional enough for a 4-star hotel. The breakfast was poor, especially drinks. To sum up, we were enjoyed and really liked the room we stayed.          ",
           "phone": "+84 235 3914 555",
           "website": "https://www.anantara.com/",
           "star": "5"
         },
         {
-          "name": "Hoi An Historic Hotel",
+          "name": "Monet Garden Villa          ",
           "loc": {
-            "lat": 15.8799909,
-            "long": 108.3286832
+            "lat": 11.94504
+            ,
+            "long": 108.459442
+
           },
-          "location":"10 Trần Hưng Đạo, Sơn Phong, Hội An, Quảng Nam, Việt Nam",
-          "image": "historic",
+          "location":"3 Nguyễn Du, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "Monet",
           "rating": "4.0",
           "peoplerated": "1841",
           "type": "Hotel",
-          "desc":"Established in 1991, the Hoi An Hotel is admired for its location, charm, and world-class facilities. Guests can access stunning Cua Dai beach, 4km East, by hopping on a shuttle bus that runs on the fifteen minutes. It is also a quick walk to the Old Town (where clients will inevitably go to visit the tailor’s).",
+          "desc":"Monet Gardens is a collections of French colonial villas refurbished to 4star+ standard, located in well kept grounds not far from the old railway station and about (2km) 10min taxi ride into central Dalat market street. Well appointed family rooms in classic style. Large restaurant and wedding/conference rooms. Smaller building houses Cafe/Bar. Friendly staff          ",
           "phone": "+84 235 3861 445",
           "website": "http://www.hoianhistorichotel.com.vn/",
           "star": "4"
         },
         {
-          "name": "Vinh Hung Riverside Resort & Spa",
+          "name": "Marguerite Hotel          ",
           "loc": {
-            "lat": 15.8741664,
-            "long": 108.3222952
+            "lat": 11.941278
+            ,
+            "long": 108.436443
+
           },
-          "location": "111 Ngô Quyền, Hội An, Quảng Nam, Việt Nam",
-          "image": "vinhhung",
+          "location": "30 Nguyễn Chí Thanh, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "Marguerite",
           "rating": "4.5",
           "peoplerated": "1913",
           "type": "Hotel",
-          "desc":"We are a family run small collection of hotels and resorts. With our various types of hotels that offer amenities and services to meet your individual travel needs, it's easy to find the one that's right for your trip.",
+          "desc":"Pretty nice hotel. Middle of the road. But with in walking distance to everything. Met the owner. Very welcoming to Americans. The coffee shop is even better across the street and is also very welcoming to Americans and English speaking          ",
           "phone": "+84 235 3910 393",
           "website": "http://www.vinhhunghotels.com.vn/about-us.html",
           "star": "3"
         },
         {
-          "name": "Hoi An Silk Marina Resort & Spa",
+          "name": "Ngoc Phat Hotel          ",
           "loc": {
-            "lat": 15.874499,
-            "long": 108.3200414
+            "lat": 11.937538
+            ,
+            "long": 108.443873
+
           },
-          "location":"74 18 Tháng 8, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
-          "image": "silk",
+          "location":"10 Hồ Tùng Mậu, Phường 3, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "NgocPhat",
           "rating": "5.0",
           "peoplerated": "2001",
           "type": "Hotel",
-          "desc":"Tucked away in the heart of Hoi An and located right on the bank of Thu Bon River, Hoi An Silk Marina Resort and Spa bathes you in the atmosphere of the City of Lantern. With a fusion of graceful European and tropical Asian style, the design hotel offers all the creature comforts you could wish for in a luxury resort. And by night, it’s the perfect place to prolong the magic of Hoi An.",
+          "desc":"The location of the hotel is the best in dalat. All the facilities are as the colonial times. The grounds around the hotel are gorgeous. Thanks to the stuff there are doing a great job. Excellent breakfast          ",
           "phone": "+84 235 3938 888",
           "website": "http://hoiansilkmarina.com",
           "star": "4"
