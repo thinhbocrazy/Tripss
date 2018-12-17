@@ -12,480 +12,509 @@
   },
   "category": {
     "food": {
-      "title": "Ẩm thực ở Hội An",
+      "title": "Ẩm thực ở Đà Lạt",
       "desc": "Hội An không chỉ nổi tiếng với vẻ đẹp cổ xưa mà còn với nền ẩm thực đặc trưng riêng.",
       "more_places": "HƠN 7+ ĐỊA ĐIỂM",
       "more_info": [
         {
-          "name": "Nhà hàng Temple",
+          "name": "Nhà hàng Le Petit Dalat          ",
           "loc": {
-            "lat": 15.880014,
-            "long": 108.316384
+            "lat": 11.947452,
+            "long": 108.429574
           },
-          "location": "132 Hùng Vương, Phường Cẩm Phổ, Hội An, Quảng Nam, Việt Nam",
-          "image": "temple",
+          "location": "31 Mai Hắc Đế, Phường 6, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+          "image": "Petit",
           "rating": "5.0",
           "peoplerated": "111",
           "type": "Cao cấp",
-          "desc": "Lấy cảm hứng từ Tây Âu và ẩm thực quốc tế, nhà hàng của chúng tôi bao gồm sự đa dạng ẩm thực từ khắp nơi trên thế giới.",
+          "desc": "Lấy cảm hứng từ Tây Âu, nhà hàng và ẩm thực kết hợp quốc tế ẩm thực hảo hạng của chúng tôi bao gồm sự đa dạng ẩm thực đặc biệt từ khắp nơi trên thế giới.          ",
           "phone": "+84 93 818 58 04",
           "cost": "$$$$",
-          "menu": "Quầy bar, đồ ăn nhanh, quán rượu, đồ ăn chay và các món ăn không chứa Gluten.",
+          "menu": "Bar, Fast Food, Pub, Vegetarian Friendly, Gluten Free Options, Vegan Options",
           "times": "6:00 AM - 11:00 PM"
         },
         {
-          "name": "Nhà hàng Aubergine49",
+          "name": "Nhà hàng Le Rabelais          ",
           "loc": {
-            "lat": 15.883697,
-            "long": 108.335575
+            "lat": 11.936822,
+            "long": 108.44027
+
           },
-          "location": "49 Lý Thái Tổ, Sơn Phong, Hội An, Quảng Nam, Việt Nam",
-          "image": "aubergine49",
+          "location": "02 Trần Phú, Phường 3, Đà Lạt, Việt Nam",
+          "image": "Rabelais",
           "rating": "4.5",
           "peoplerated": "444",
           "type": "Cao cấp",
-          "desc": "Aubergine49 là một nhà hàng hiện đại theo phong cách châu Âu nằm cách phố cổ Hội An không xa. Tại đây, chúng tôi sẽ mang lại cho bạn những trải nghiệm ẩm thực chất lượng nhất. Từ các sản phẩm có nguồn gốc địa phương cho đến các nguyên liệu nhập khẩu tốt nhất, chúng tôi tự hào giới thiệu cho bạn các món ăn lấy cảm hứng từ Âu Á của chúng tôi.",
+          "desc": "Chúng tôi ăn tối tại Le Rabelais cho một dịp đặc biệt và rất ấn tượng với dịch vụ khách hàng mà chúng tôi nhận được từ nhân viên. Các thiết lập nhà hàng là đẹp và bữa ăn của chúng tôi là tuyệt vời. Tất cả trong một trải nghiệm khó quên.          ",
           "phone": "+84 235 2212 190",
           "cost": "$$$$",
-          "menu": "Phục vụ các món ăn Pháp, châu Âu, châu Á. Phù hợp với người ăn chay, các món ăn không chứa Gluten",
-          "times": "6:00 AM - 10:00 PM"
+          "menu": "French, European, Asian, Contemporary, Vegetarian Friendly, Vegan Options, Gluten Free Options",
+          "times": "6:00 PM - 10:00 PM"
         },
         {
-          "name": "Nhà hàng Herb & Spices",
+          "name": "Nhà hàng Artist Alley          ",
           "loc": {
-            "lat": 15.879611,
-            "long": 108.328534
+            "lat": 11.941597,
+            "long": 108.432622
           },
-          "location": "2/6 Lê Lợi, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
-          "image": "herbs",
+          "location": "124/1 Phan Đình Phùng, Đà Lạt, Việt Nam",
+          "image": "Alley",
           "rating": "5.0",
           "peoplerated": "1012",
           "type": "Trung cấp",
-          "desc": "Đến Hội An, bạn hãy thử trải nghiệm ẩm thực ở Herbs and Spices. Tại đây, bạn sẽ được hướng dẫn cách nấu các món ăn, sau đó thưởng thức các món do chính mình nấu, thật tuyệt vời phải không nào. Nhà hàng đẹp, món ăn ngon, nhân viên rất tận tình, chu đáo. Có lối ra vào cho xe lăn, phục vụ đồ uống có cồn, Wifi miễn phí.",
+          "desc": "Đây là một nhà hàng rất độc đáo, xuống một con hẻm và lên cầu thang đến một loạt các bức tranh thú vị trang trí một loạt các phòng với nhiều bảng khác nhau cho hầu hết mọi nhóm. Rượu vang ngon, một lựa chọn bia công bằng, tôi có hai món cá rất ngon. Menu cho các thành viên ăn chay vào một buổi tối. Cũng đáng xem! Chủ sở hữu là một người rất hào phóng và tử tế.          ",
           "phone": "+84 510 3936 886",
           "cost": "$$",
-          "menu": "Châu Á, Việt Nam, món kết hợp. Phù hợp với người ăn chay, các món không chứa Gluten.",
-          "times": "6:00 AM - 10:00 PM"
+          "menu": "Asian, Vietnamese, International, Fusion, Vegetarian Friendly, Vegan Options, Gluten Free Options",
+          "times": ""
         },
         {
-          "name": "Quán bar Shore Club bãi biển An Bàng",
+          "name": "Nhà hàng M Bistro Café",
           "loc": {
-            "lat": 15.913791,
-            "long": 108.340795
+            "lat": 11.943503,
+            "long": 108.435104
           },
-          "location": "Hai Bà Trưng, Quảng Nam, Việt Nam",
-          "image": "shore",
+          "location": "25 Trương Công Định, Đà Lạt 670000, Việt Nam          ",
+          "image": "Bistro",
           "rating": "5.0",
           "peoplerated": "313",
           "type": "Trung cấp",
-          "desc": "Với khung cảnh biển lãng mạn, cùng với những món hấp dẫn sẽ đánh thức vị giác của bạn.",
+          "desc": " Thức ăn rất ngon và có một số món ăn nguyên bản. Nhà hàng rất yên tĩnh, nhạc nền rất thư giãn, thật yên bình. Thêm vào đó, người phục vụ rất tử tế và tốt bụng, điều này giúp nâng cao toàn bộ trải nghiệm, tôi khuyên bạn nên dùng bistrot này!          ",
           "phone": "+84 120 460 4861",
           "cost": "$$",
-          "menu": "Phục vụ các món ăn quốc tế, Việt Nam, hải sản, món kết hợp. Phù hợp với người ăn chay, các món không chứa Gluten.",
+          "menu": "International, Vietnamese, Seafood, Fusion, Vegetarian Friendly, Gluten Free Options",
           "times": "7:00 AM - 11:00 PM"
         },
         {
-          "name": "Chuỗi nhà hàng và cà phê Tuấn",
+          "name": "Quán nướng Chu Quan BBQ Grill",
           "loc": {
-            "lat": 15.876412,
-            "long": 108.346173
+            "lat": 11.937554,
+            "long": 108.43579
           },
-          "location": "170 Trần Nhân Tông, Cẩm Châu, Hội An, Quảng Nam , Việt Nam",
-          "image": "cafe",
+          "location": "3 Pham Ngu Lao St | Ward 3, Đà Lạt, Việt Nam          ",
+          "image": "Quan",
           "rating": "5.0",
           "peoplerated": "1343",
           "type": "Bình dân",
-          "desc": "Hãy đến và dùng bữa tại Nhà hàng & Cafe Tuấn. Chúng tôi cung cấp một loạt các món ăn ngon từ châu Âu và các món địa phương. Ngoài ra, chúng tôi còn phục vụ pizza, bánh mì kẹp thịt và hơn thế nữa!",
+          "desc": "Chúng tôi đã có thịt bò bbq và đó là một trải nghiệm khác nhau, thịt bò có vị ngon và 3 món ăn thêm chúng tôi đặt mua, rau xanh, đậu hũ chiên và cơm chiên có kích thước tốt và ngon.          ",
           "phone": "+84 90 570 66 74",
           "cost": "$",
-          "menu": "Phục vụ các món Ý, châu Âu và Việt Nam. Ngoài ra còn có món chay, món ăn không chứa Gluten, có pizza và cả quán bar.",
+          "menu": "Italian, Pizza, European, Asian, Vietnamese, Vegetarian Friendly, Vegan Options, Gluten Free Options",
           "times": "12:00 PM - 9:00 PM"
         },
         {
-          "name": "Chuỗi nhà hàng và quán bar Simple (Góc bếp của Rose)",
+          "name": "Nhà hàngWheel House Dalat",
           "loc": {
-            "lat": 15.889468,
-            "long": 108.377787
+            "lat": 11.943962,
+            "long": 108.434526
           },
-          "location": "Âu Cơ, Cửa Đại, Hội An, Quảng Nam, Việt Nam",
-          "image": "simple",
+          "location": "51 Trương Công Định, P.1, Đà Lạt, Việt Nam          ",
+          "image": "Wheel",
           "rating": "5.0",
           "peoplerated": "105",
           "type": "Bình dân",
-          "desc": "Nhà hàng có không gian ẩm thực tuyệt vời với sự kết hợp tuyệt vời giữa văn hóa ẩm thực châu Á và hương vị của ẩm thực Việt Nam.",
+          "desc": "Thức ăn tuyệt vời được chuẩn bị trong một nhà bếp nhỏ và mọi thứ mới được chế tạo, chắc chắn sẽ cố gắng nếu bạn đi đến thành phố Lat          ",
           "phone": "+84 166 951 1881",
           "cost": "$",
-          "menu": "Phục vụ các món Ý, châu Âu và Việt Nam. Ngoài ra còn có món chay, món không chứa Gluten, có pizza và quán bar.",
+          "menu": "Seafood, European, Asian, Vietnamese, Gastropub, Vegetarian Friendly, Vegan Options, Gluten Free Options",
           "times": "11:00 AM - 10:00 PM"
         },
         {
-          "name": "Cà phê Rosie",
+          "name": "Nhà hàng Biang Bistro",
           "loc": {
-            "lat": 15.877663,
-            "long": 108.325648
+            "lat": 11.944089,
+            "long": 108.440011
           },
-          "location": "8/6 Nguyễn Thị Minh Khai, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
-          "image": "frenchBakery",
+          "location": "Số 2 Lý Tự Trọng, Phường 2, Đà Lạt, Việt Nam          ",
+          "image": "Biang",
           "rating": "5.0",
           "peoplerated": "512",
           "type": "Ăn sáng",
-          "desc": "Quán đẹp, nằm trong đường vô phố cổ rất dễ tìm. Đồ uống ngon, giá phải chăng khoảng từ 30-50k. Khách Tây khá nhiều thích hợp cho bạn nào muốn trao dồi tiếng Anh.",
+          "desc": "Theo nghĩa đen, mọi thứ chúng tôi ăn đều ngon. Mỗi món ăn (từ những miếng chả giò tươi đến bắp wasabi) đều có một hương vị thú vị và mới mẻ đối với chúng tôi. Đầu bếp đang nấu ăn ngay cạnh bàn của bạn. A phải đi ở Lat          ",
           "phone": "+84 90 531 24 33",
           "cost": "$",
-          "menu": "Phục vụ cafe, các món ăn tốt cho sức khỏe, phù hợp với người ăn chay, các món ăn không chứa Gluten.",
+          "menu": "Cafe, International, Healthy, Vegetarian Friendly, Vegan Options, Gluten Free Options",
           "times": "9:00 AM - 5:00 PM"
         },
         {
-          "name": "Nhà hàng và tiệm bánh Pháp",
+          "name": "French Touch Coffe          ",
           "loc": {
-            "lat": 15.913642,
+            "lat": 11.913642,
             "long": 108.336849
           },
-          "location": "Cẩm An, Hội An, tỉnh Quảng Nam, Việt Nam",
-          "image": "rosie",
+          "location": "41 Hai Bà Trưng | Phường 6, Đà Lạt, Việt Nam          ",
+          "image": "FrenchTouch",
           "rating": "4.5",
           "peoplerated": "310",
           "type": "Ăn sáng",
-          "desc": "Ẩm thực Pháp và Việt Nam được phục vụ trong khung cảnh ngoài trời. Nhà hàng chúng tôi phục vụ sáng, trưa và cả tối.",
+          "desc":"Một quán cà phê rất ngọt ngào, bầu không khí đáng yêu, thực sự ngon muesli với chuối tươi và mật ong! Những con mèo cũng rất dễ thương! Cảm ơn bạn đã ăn sáng tuyệt vời!          ",
           "phone": "+84 128 868 9643",
           "cost": "$",
-          "menu": "Phục vụ các món Pháp và Việt Nam. Ngoài ra còn có món chay, món không chứa Gluten, pizza và cà phê",
+          "menu":"French, Vietnamese, Cafe, Asian, Vegetarian Friendly, Gluten Free Options, Vegan Options",
           "times": "7:00 AM - 9:00 PM"
         },
         {
-          "name": "Lớp nấu ăn và nhà hàng Trà Quế Garden",
+          "name": "Nhà hàng Da Quy",
           "loc": {
-            "lat": 15.901926,
-            "long": 108.339727
+            "lat": 11.944834,
+            "long": 108.434294
           },
-          "location": "Hai Bà Trưng, Cẩm Hà, Hội An, Quảng Nam, Việt Nam",
-          "image": "traQue",
+          "location": "119 Phan Đình Phùng, Đà Lạt 61000, Việt Nam",
+          "image": "Daquy",
           "rating": "5.0",
           "peoplerated": "276",
           "type": "Địa phương",
-          "desc": "Hãy dành một nửa ngày để sống, làm việc và nấu ăn với người dân địa phương trong làng rau hữu cơ. Đó sẽ là cơ hội tuyệt vời để bạn khám phá cuộc sống hàng ngày của nông dân và trở thành một “đầu bếp địa phương”!",
+          "desc":"thực phẩm và dịch vụ rất tốt. Chủ sở hữu tiếng Anh tốt và rất đáng yêu. Đề xuất địa điểm này nếu bạn đến thăm Đà Lạt.          ",
           "phone": "+84 90 286 66 03",
           "cost": "$",
-          "menu": "Phục vụ các món châu Á và Việt Nam. Ngoài ra còn có món chay, món ăn không chứa Gluten, pizza và bar.",
+          "menu":"Asian, Vietnamese, Vegan Options, Gluten Free Options, Vegetarian Friendly",
           "times": "9:00 AM - 4:00 PM"
         },
         {
-          "name": "Nhà hàng Nhan's Kitchen",
+          "name": "Nhà hàng Hoang Anh",
           "loc": {
-            "lat": 15.878034,
-            "long": 108.345139
+            "lat": 11.949494,
+            "long": 108.440377
           },
-          "location": "167 Trần Nhân Tông, Cẩm Châu, Hội An, Quảng Nam, Việt Nam",
-          "image": "nhans",
+          "location":"1000 Nguyễn Thị Nghĩa, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "Hanh",
           "rating": "5.0",
           "peoplerated": "731",
           "type": "Địa phương",
-          "desc": "Ở Hội An, các nhà hàng với giá rẻ hơn thường có phần bánh pizza lớn. Các đơn đặt hàng này được ký hợp đồng phụ cho các bên thứ ba. Nhan’s Kitchen làm ra những chiếc pizza theo công thức riêng của họ. Hãy thử Four Cheeses Pizza với kích cỡ lớn chỉ với giá 80.000 đồng!",
+          "desc":"Nguyên liệu ngon và một nhân viên rất thân thiện và hữu ích mà vui lòng cho chúng ta thấy làm thế nào để ăn một cách chính xác món ăn đó.          ",
           "phone": "+84 90 518 68 67",
           "cost": "$",
-          "menu": "Phục vụ các món Ý, châu Á và Việt Nam. Ngoài ra còn có món chay, món ăn không chứa Gluten, pizza và bar.",
-          "times": "12:00 PM - 9:00 PM"
+          "menu":"Italian, Bar, Pizza, Asian, Vietnamese, Vegetarian Friendly, Vegan Options, Gluten Free Options",
+          "times": "12:00 PM - 9:30 PM"
         }
       ]
     },
     "place": {
-      "title": "Điểm đến ở Hội An",
-      "desc": "Hội An có rất nhiều nơi để tận hưởng và khám phá. Bạn sẽ không hối hận khi đến đây.",
+      "title": "Điểm đến ở Đà Lạt",
+      "desc": "Đà Lạt có rất nhiều nơi để tận hưởng và khám phá. Bạn sẽ không hối hận khi đến đây.",
       "more_places": "HƠN 7+ ĐỊA ĐIỂM",
       "more_info": [
         {
-          "name": "Bãi biển An Bàng",
+          "name": "Chùa Linh Phước          ",
           "loc": {
-            "lat": 15.913796,
-            "long": 108.3386063
+            "lat": 11.944579            ,
+            "long": 108.499673
+
           },
-          "location": "Hai Bà Trưng, Quảng Nam, Việt Nam",
-          "image": "anBang",
+          "location": "120 Tự Phước Thành Phố Đà Lạt, Phường 11, Thành phố Đà Lạt, Lâm Đồng, Vietnam          ",
+          "image": "LPhuoc",
           "rating": "5.0",
           "peoplerated": "135",
-          "type": "Bờ biển",
-          "desc": "Bãi biển yên tĩnh, rợp bóng cây và cát trắng với những dãy ghế dài và quán ăn."
+          "type": "Điểm du lịch",
+          "desc":"Ngôi chùa này rất ấn tượng đặc biệt là tay nghề phức tạp đã đi vào thực hiện nó. Anh ta nếu bạn cần sử dụng nhà vệ sinh chỉ cần cẩn thận rằng họ là nhà vệ sinh ngồi xổm. Rất nhiều lịch sử và hình ảnh cơ hội của cô. Rất đáng để ghé thăm          "
         },
         {
-          "name": "Hội quán Phúc Kiến",
+          "name": "Thác Voi         ",
           "loc": {
-            "lat": 15.877512,
-            "long": 108.330547
+            "lat": 11.82396            ,
+            "long": 108.334686
+
           },
-          "location": "46 Trần Phú, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
-          "image": "fujian",
+          "location": "Gia Lâm, Đà Lạt, Việt Nam          ",
+          "image": "Elephant",
           "rating": "4.0",
           "peoplerated": "808",
           "type": "Điểm du lịch",
-          "desc": "Hội quán Phúc Kiến được xây dựng vào năm 1697 bởi những thương gia người Phúc Kiến. Hội quán là nơi thờ các vị thần bảo hộ về sông nước, tiền của, con cái. Đây cũng là nơi hội họp đồng hương của những người Phúc Kiến. Nơi đây nổi tiếng với lối kiến trúc cổ và ngôi Chính điện thờ Thiên hậu Thánh Mẫu (bà chúa phù hộ cho thương nhân vượt sóng gió ngoài biển khơi)."
+          "desc":"Đó là một chuyến thăm tốt đẹp đến thác nước, đó là một phần của chuyến đi trong ngày với nhiều điểm dừng. Bạn có thể đi xuống chân thác qua một hang động nhỏ và trải nghiệm cận cảnh dòng nước mạnh đến mức nào          "
         },
         {
-          "name": "Trung tâm biểu diễn Lune Hội An",
+          "name": "Thung lũng tình yêu          ",
           "loc": {
-            "lat": 15.875217,
-            "long": 108.328802
+            "lat": 11.980129            ,
+            "long": 108.449914
+
           },
-          "location": "Công viên Đồng Hiệp, Phố cổ, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
-          "image": "lune",
+          "location":"Phường 8, Đà Lạt          ",
+          "image": "Love",
           "rating": "4.5",
           "peoplerated": "20273",
           "type": "Điểm du lịch",
-          "desc": "Trung Tâm Biểu Diễn Lune Hội An là điểm đến mới không thể bỏ qua cho khách thập phương ghé thăm phố Hội và cả những người bản xứ vốn giàu chất 'nghệ'."
+          "desc":"Khu vườn rộng lớn khiến bạn tươi mát. Bạn cần trả vé vào cổng để tận hưởng vườn hoa đầy màu sắc. Đề nghị của tôi cho nơi này là phù hợp cho chuyến đi riêng không có hướng dẫn viên du lịch. Nếu bạn có thời gian ở trong vườn, nó sẽ thỏa mãn và thư giãn tâm hồn bạn.          "
         },
         {
-          "name": "Chùa Vạn Đức",
+          "name": "Quảng trường Lâm Viên          ",
           "loc": {
-            "lat": 15.904602,
-            "long": 108.321793
+            "lat": 11.938789            ,
+            "long": 108.445042
           },
-          "location": "Cẩm Hà, Hội An, Quảng Nam, Việt Nam",
-          "image": "vanDuc",
+          "location": "Phường 10, Đà Lạt          ",
+          "image": "LamVien",
           "rating": "4.5",
           "peoplerated": "40",
           "type": "Điểm du lịch",
-          "desc": "Văn Đức, một trong những ngôi chùa lớn nhất ở Hội An, là nơi sẽ mang cho bạn chuyến tham thú vị để khám phá nét văn hóa trong đời sống tôn giáo của người dân địa phương."
+          "desc":"Nơi tốt để đi bộ xung quanh để kéo dài chân của bạn. Cũng là một nơi tốt cho trẻ nhỏ chạy xung quanh và có một thời gian tốt.          "
         },
         {
-          "name": "Chùa Cầu",
+          "name": "Ga Đà Lạt          ",
           "loc": {
-            "lat": 15.877118,
-            "long": 108.326104
+            "lat": 11.941614            ,
+            "long": 108.454463
           },
-          "location": "Nguyễn Thị Minh Khai, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
-          "image": "japaneseBridge",
+          "location":"Quang Trung, P10, Đà Lạt          ",
+          "image": "Station",
           "rating": "4.0",
           "peoplerated": "7504",
           "type": "Điểm du lịch",
-          "desc": "Chùa Cầu được xây dựng trên cây cầu bắc qua một con lạch nhỏ. Đây một trong những di tích có kiến trúc khá đặc biệt. Kết cấu kiến trúc và trang trí nội thất của chùa mang đậm dấu ấn của nền văn hóa Phù Tang. Đây là một trong những điểm tham quan được nhiều du khách ưa thích khi đến với Hội An."
+          "desc":"Nơi thú vị để xem kỷ niệm tàu lịch sử. Không tốn kém. Có một tách cà phê trong một trong những chiếc xe lửa được chuyển đổi và đi lang thang trong khoảng 30 phút hoặc lâu hơn. Sẽ không mất nhiều thời gian để xem tất cả.          "
         },
         {
-          "name": "Nhà cổ Phùng Hưng",
+          "name": "Làng Cù Lần          ",
           "loc": {
-            "lat": 15.877192,
-            "long": 108.325801
+            "lat": 12.025958            ,
+            "long": 108.363705
           },
-          "location": "4 Nguyễn Thị Minh Khai, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
-          "image": "oldHouse",
+          "location":"ĐT722, Lát, Lạc Dương, Lâm Đồng, Vietnam          ",
+          "image": "CuLan",
           "rating": "3.5",
           "peoplerated": "414",
           "type": "Điểm du lịch",
-          "desc": "Với tuổi thọ hơn 100 năm, nhà Phùng Hưng có kết cấu độc đáo với phần gác cao bằng gỗ và các hành lang rộng bao quanh, thể hiện sự phát triển về kiến trúc và sự giao lưu giữa các phong cách kiến trúc Á Đông tại Hội An trong các thế kỷ trước đây."
+          "desc":"Ngôi làng Cù Lần với ý nghĩa của sự ngu ngốc, dại dột nhưng thực sự đó là một nơi xứng đáng để đến. Ở đây không khí luôn mát mẻ, đôi khi hơi lạnh. Những ngôi nhà cổ được người dân giữ lại như một sự bảo tồn tinh hoa văn hóa. Sự tươi mới và lãng mạn chắc chắn sẽ khiến nhiều người phải mê mẩn.          "
         },
         {
-          "name": "Làng Rau Trà Quế",
+          "name": "Đỉnh LangBiang          ",
           "loc": {
-            "lat": 15.902439,
-            "long": 108.337633
+            "lat": 12.011821            ,
+            "long": 108.418609
           },
-          "location": "Cẩm Hà, Hội An, Quảng Nam",
-          "image": "traQue",
+          "location": "tt Lạc Dương, Lâm Đồng          ",
+          "image": "LangBiang",
           "rating": "4.5",
           "peoplerated": "494",
           "type": "Điểm du lịch",
-          "desc": "Trà Quế là một ngôi làng nhỏ duyên dáng ở rìa của Hội An, ngôi làng được đặt theo tên của các loại rau thơm ngọt ngào mà gia vị cho bữa ăn hàng ngày của người dân Phố Hội. Một ngày sống và làm việc với người dân địa phương tại làng rau Trà Quế, nơi bạn sẽ có cơ hội khám phá cuộc sống hàng ngày của người nông dân."
+          "desc":"Lang Biang ở 2187 m là một chuyến đi bộ tuyệt vời. Trung bình đến cứng (350 bạn tình) chắc chắn là khó. Thật tốt khi được hướng dẫn vì con đường thú vị xuyên qua một khu rừng và rất dễ bị lạc          "
         },
         {
-          "name": "Bảo tàng lịch sử văn hóa Hội An",
+          "name": "Hồ Tuyền Lam          ",
           "loc": {
-            "lat": 15.880269,
-            "long": 108.329463
+            "lat": 11.905647            ,
+            "long": 108.431988
           },
-          "location": "10B Trần Hưng Đạo, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
-          "image": "history",
+          "location": "Phường 4, Dalat, Lâm Đồng, Vietnam          ",
+          "image": "TuyenLam",
           "rating": "3.0",
           "peoplerated": "111",
-          "type": "Viện bảo tàng",
-          "desc": "Với những hiện vật khảo cổ được phát hiện ở Hội An, bảo tàng Lịch Sử Văn Hoá là minh chứng sinh động về lịch sử hình thành, phát triển của vùng đất thương cảng. Bảo tàng này phần nào nói lên vai trò Hội An với tính chất là một trung tâm thương cảng quốc tế lớn ở Đàng Trong - Việt Nam và cả khu vực Đông Nam Á."
+          "type": "Điểm du lịch",
+          "desc":"Hãy đến đây vào sáng sớm hoặc lúc bình minh để xem những khoảnh khắc đẹp nhất bên hồ. Bên cạnh đó, bạn có thể thử một số nhà bbq gần hồ.          "
         },
         {
-          "name": "Bảo tàng gốm sứ Hội An",
+          "name": "Công viên Đà Lạt          ",
           "loc": {
-            "lat": 15.877291,
-            "long": 108.329522
+            "lat": 11.951022
+            ,
+            "long": 108.446659
+
           },
-          "location": "80 Trần Phú, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
-          "image": "ceramics",
+          "location": "2 Trần Nhân Tông, Phường 8, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "Park",
           "rating": "3.5",
           "peoplerated": "132",
-          "type": "Viện bảo tàng",
-          "desc": "Bảo tàng gốm sứ Hội An là điểm đến không thể thiếu trong hành trình khám phá Hội An. Đến nơi đây bạn không chỉ được ngắm nhìn những cổ vật gốm sứ nức danh khắp bốn phương mà còn có cơ hội được biết thêm nhiều câu chuyện về một thời hưng thịnh của thương cảng Hội An."
+          "type": "Điểm du lịch",
+          "desc":"Chúng tôi đã đến thăm trang trại hoa này vào tháng 10 năm 2018, khuyến nghị đầy đủ cho những người thích làm vườn, ở đây đã trồng nhiều loại hoa khác nhau mà chúng tôi chưa từng thấy trước đây. Rất vui được chụp ảnh ở đây.          "
         },
         {
-          "name": "Triển lãm Precious Heritage",
+          "name": "Thung lũng đèn café          ",
           "loc": {
-            "lat": 15.877089,
-            "long": 108.334208
+            "lat": 11.943136
+            ,
+            "long": 108.487648
+
           },
-          "location": "26 Phan Bội Châu, Hội An, Quảng Nam, Việt Nam",
-          "image": "heritage",
+          "location": "dốc số 7, Trại Mát, Thành phố Đà Lạt, Lâm Đồng, Vietnam          ",
+          "image": "Lights",
           "rating": "5.0",
           "peoplerated": "512",
-          "type": "Viện bảo tàng",
-          "desc": "Trưng bày 250m2 các bức ảnh và hiện vật được thu thập trong trong chuyến khám phá Việt Nam kéo dài 5 năm của nhiếp ảnh gia Rehahn. Phòng trưng bày mở cửa tự do."
+          "type": "Điểm du lịch",
+          "desc":"nó rất lớn giống như thung lũng Tình yêu hoặc các công viên khác ở Đà Lạt. Peacel, bình tĩnh, phong cảnh đẹp, một số động vật, đặc biệt là đường đến thung lũng với 2 hàng rào thông thẳng!          "
         }
       ]
     },
     "shop": {
-      "title": "Mua sắm ở Hội An",
-      "desc": "Nơi đây là thiên đường mua sắm từ những chợ ở địa phương cho đến các trung tâm thương mại.",
+      "title": "Mua sắm ở Đà Lạt",
+      "desc":
+        "Nơi đây là thiên đường mua sắm từ những chợ ở địa phương cho đến các trung tâm thương mại.",
       "more_places": "HƠN 7+ ĐỊA ĐIỂM",
       "more_info": [
         {
-          "name": "Cửa hàng túi da Thân Thiện",
+          "name": "Chợ Đà Lạt          ",
           "loc": {
-            "lat": 15.8769476,
-            "long": 108.3337922
+            "lat": 11.943237
+            ,
+            "long": 108.437388
+
           },
-          "location": "44 Đường Phan Bội Châu, Cẩm Châu, Hội An, Quảng Nam, Việt Nam",
-          "image": "friendly_shop",
+          "location": "Số 10 Phan Bội Châu, Phường 1, Thành phố Đà Lạt, Lâm Đồng, Vietnam          ",
+          "image": "Market",
           "rating": "5.0",
           "peoplerated": "577",
-          "type": "Cửa hàng thủ công mỹ nghệ",
-          "desc": "Túi xách Thân Thiện là cửa hàng túi duy nhất ở Hội An. Chúng tôi có thể làm túi du lịch, túi xách, túi xách cho máy tính xách tay hoặc iPad và ví. Trong vòng chưa đầy một ngày, bạn có thể nhận được túi xách sau khi đã chọn thiết kế và vải.",
-          "phone": "093 521 13 82",
+          "type": "Thị trường",
+          "desc":"Chắc chắn giá trị đi bộ xung quanh các thị trường này. Rất nhiều để xem và ngửi. Quần áo giá rẻ và đồ lưu niệm, vv Một kinh nghiệm tốt để cảm nhận những gì thị trường địa phương là như thế nào. Và để tham quan thanh 100 mái là rất nhiều niềm vui. Mua một thức uống và bị lạc khám phá tất cả các đường hầm điên rồ và vui nhộn để đạt đến đỉnh. Chắc chắn phải làm ở Đà Lạt          ",
+          "phone": "+84 93 521 13 82",
           "website": "friendlybaghoian.com",
           "times": "9:00 AM - 9:00 PM"
         },
         {
-          "name": "Đèn lồng & đèn lụa Dé Lantana",
+          "name": "XQ Vietnam          ",
           "loc": {
-            "lat": 15.883083,
-            "long": 108.335871
+            "lat": 11.977588
+            ,
+            "long": 108.447983
+
           },
-          "location": "35 Lý Thái Tổ, Sơn Phong, Hội An, Quảng Nam, Việt Nam",
-          "image": "de_lantana",
+          "location": "258 Mai Anh Đào, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "XQ",
           "rating": "4.7",
           "peoplerated": "36",
           "type": "Cửa hàng thủ công mỹ nghệ",
-          "desc": "Đèn lồng & đèn lụa Dé Lantana cũng là nơi đáng tin cậy để mua đèn và đèn lồng truyền thống cũng như hiện đại. Những chiếc đèn lồng tuyệt đẹp có sẵn ở đây đều ở mức giá hợp lý.",
+          "desc":"nó vượt ra ngoài những lời lẽ có thể diễn tả. Tôi rất tự hào về người Việt Nam. Họ rất tài năng theo nhiều cách. Tôi yêu đất nước rất nhiều.          ",
           "phone": "+84 235 6288 789",
           "website": "http://www.delantana.com/",
           "times": "7:30 AM - 5:00 PM"
         },
         {
-          "name": "Chợ đêm",
+          "name": "Bảo tàng 3D Trickland          ",
           "loc": {
-            "lat": 15.875923,
-            "long": 108.325948
+            "lat": 11.942731
+            ,
+            "long": 108.438134
+
           },
-          "location": "Nguyễn Hoàng, Hội An, Quảng Nam, Việt Nam",
-          "image": "night_market",
+          "location": "3 Lê Thị Hồng Gấm, Phường 1, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "Trickland",
           "rating": "4.1",
           "peoplerated": "142",
-          "type": "Thị trường",
-          "desc": "Chợ đêm Hội An, nằm trên đường Nguyễn Hoàng ở trung tâm thành phố, bao gồm hơn 50 đại lý địa phương bán nhiều loại đồ ăn vặt, đồ trang sức, quần áo, đồ trang sức và phụ kiện địa phương. Được coi là một trong những thị trường phổ biến nhất ở Việt Nam, nó chiếm một con đường dài 300 mét nhìn ra sông Thu Bồn và được chiếu sáng bởi hàng trăm chiếc đèn lồng đầy màu sắc, tạo nên một nơi lí tưởng cho nhiếp ảnh.",
+          "type": "Cửa hàng thủ công mỹ nghệ",
+          "desc":"Có những bức tranh thực tế và hơn 10 chủ đề của khu vực nghệ thuật lừa và nhiều điều để phiêu lưu. Bên trong bảo tàng này, tôi có thể chụp ảnh khắp nơi trên thế giới!          ",
           "phone": "",
           "website": "",
           "times": "5:00 PM - 11:00 PM"
         },
         {
-          "name": "Chợ trung tâm Hội An",
+          "name": "shop thủ công Labata          ",
           "loc": {
-            "lat": 15.876824,
-            "long": 108.33128
+            "lat": 11.944424
+            ,
+            "long": 108.434096
+
           },
-          "location": "73 Phan Bội Châu, Hội An, Quảng Nam, Việt Nam",
-          "image": "central_market",
+          "location":"64 Phan Đình Phùng, Dalat, Lâm Đồng          ",
+          "image": "Labata",
           "rating": "4.0",
           "peoplerated": "213",
-          "type": "Thị trường",
-          "desc": "Nằm bên bờ sông Thu Bồn, chợ trung tâm Hội An luôn nhộn nhịp với hàng trăm quầy hàng lớn nhỏ. Đến đây du khách sẽ chọn được những mặt hàng địa phương ưng ý, chất lượng với giá cả hợp lí.",
+          "type": "Cửa hàng thủ công mỹ nghệ",
+          "desc":"chúng tôi đều thực sự thích nhìn vào tất cả các mặt hàng thủ công ở Labata! Chúng tôi đã mua một số loại tinh dầu và thực hiện một khóa học đóng sách, nơi chúng tôi đã học cách làm sổ ghi chép theo phong cách được bán trong cửa hàng. Rất vui, chắc chắn đề nghị!          ",
           "phone": "",
           "website": "",
           "times": "5:00 AM - 4:00 PM"
         },
         {
-          "name": "Cửa hàng đèn lồng Hội An",
+          "name": "Cửa hàng vải Namsilk          ",
           "loc": {
-            "lat": 15.880543,
-            "long": 108.298083
+            "lat": 11.943667
+            ,
+            "long": 108.434969
+
           },
-          "location": "424 Hùng Vương, Thanh Hà, Hội An, Quảng Nam, Việt Nam",
-          "image": "hoian_lantern_shop",
+          "location": "34 Trương Công Định, Phường 1, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "Namsilk",
           "rating": "4.2",
           "peoplerated": "13",
           "type": "Cửa hàng thủ công mỹ nghệ",
-          "desc": "Đèn lồng Hội An sẽ chào đón bạn đến với một thế giới đầy màu sắc của những chiếc đèn lồng đẹp mắt với vô số các kiểu dáng cho bạn lựa chọn.",
+          "desc":"Nó thực sự thú vị và thực sự đáng xem. Tôi đã đến những nơi lụa khác ở các nước khác, và tìm thấy điều này một chút chân thực hơn, một chút thô. Nó tốt. Những gì họ phải cung cấp để bán là khá hợp lý giá.          ",
           "phone": "+84 93 586 31 49",
           "website": "",
-          "times": "9:00 AM - 5:00 PM"
+          "times": "9:00am - 5:00pm"
         },
         {
-          "name": "Phòng trưng bày Couleurs d’Asie",
+          "name": "DL Nature's          ",
           "loc": {
-            "lat": 15.877985,
-            "long": 108.331375
+            "lat": 11.533905
+            ,
+            "long": 107.828553
+
           },
-          "location": "7 Nguyễn Huệ, Cẩm Châu, Hội An, Quảng Nam, Việt Nam",
-          "image": "coleurs_dasie",
+          "location":"125 Quốc lộ 20 | Tổ Lâm Văn Thạnh, Phường 11, Đà Lạt, Việt Nam          ",
+          "image": "DLnature",
           "rating": "5.0",
           "peoplerated": "521",
-          "type": "Bộ sưu tập",
-          "desc": "Đây là phòng trưng bày thứ 2 của Réhahn ở Hội An. Trong bộ sưu tập, Réhahn đã trưng bày các tác phẩm hay nhất của ông với phiên bản giới hạn được chứng nhận bởi chính nhiếp ảnh gia, ông cũng trưng bày cuốn sách của mình và nhiều loại bưu thiếp.",
+          "type": "Thị trường",
+          "desc":"Giá thấp hơn so với Lang's Farm với chất lượng tương tự. Nhân viên thân thiện, cửa hàng đẹp. Nó thậm chí có cửa hàng trực tuyến để giao hàng          ",
           "phone": "+84 235 3911 382",
           "website": "http://www.rehahnphotographer.com/",
           "times": "8:00 AM - 8:00 PM"
         },
         {
-          "name": "Phòng trưng bày nghệ thuật Hưng Long",
+          "name": "L'angfarm Store          ",
           "loc": {
-            "lat": 15.8765561,
-            "long": 108.3273384
+            "lat": 11.943812
+            ,
+            "long": 108.417125
+
           },
-          "location": "105 Nguyễn Thái Học, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
-          "image": "hunglong_gallery",
+          "location": "1b Hoàng Văn Thụ, Phường 5, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "Langfarm",
           "rating": "4.5",
           "peoplerated": "26",
-          "type": "Bộ sưu tập",
-          "desc": "Đây là gallery của Nguyễn Trung Việt, một nghệ sĩ Việt Nam tài năng. Cửa hàng của anh sở hữu một loạt các tác phẩm hội họa do chính anh sáng tác. Với chất liệu chủ yếu là sơn mài, anh thổi linh hồn mình vào từng bức tranh mô tả cô gái Việt Nam trong áo dài quyến rũ.",
-          "phone": "0235 3861 524",
+          "type": "Cửa hàng thủ công mỹ nghệ",
+          "desc":"L'angfarm Store là hệ thống chuỗi cửa hàng bán lẻ đặc sản Đà Lạt do chúng tôi trực tiếp xây dựng và vận hành nhằm mục đích: Mang đến những sản phẩm đặc sản Đà Lạt an toàn, chất lượng và đẹp mắt nhất; Lưu chuyển hàng hoá đúng tiêu chuẩn với mức giá được kiểm soát tốt nhất          ",
+          "phone": "+84 235 3861 524",
           "website": "",
           "times": "9:00 AM - 9:00 PM"
         },
         {
-          "name": "Reaching Out",
+          "name": "Lavender Shop          ",
           "loc": {
-            "lat": 15.876573,
-            "long": 108.327584
+            "lat": 11.94487
+            ,
+            "long": 108.439303
+
           },
-          "location": "103 Nguyễn Thái Học, Phường Minh An, Hội An, Quảng Nam , Việt Nam",
-          "image": "reaching_out",
+          "location":"47 Bùi Thị Xuân, Phường 2, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "Lavender",
           "rating": "5.0",
           "peoplerated": "768",
           "type": "Cửa hàng thủ công mỹ nghệ",
-          "desc": "Reaching Out là một doanh nghiệp địa phương chuyên sản xuất các mặt hàng thủ công tinh xảo và duyên dáng. Ở đây có nhiều sản phẩm như: đồ trang sức, đồ thủ công, đồ trang trí bếp, trà và cà phê. Ngoài ra, Reaching Out còn có một quán cà phê mang phong cách cổ điển ngay bên cạnh cửa hàng.",
+          "desc":"Shop quà tặng hoa Lavender , bình hoa, hộp quà, tinh dầu, túi thơm, mỹ phẩm từ Lavender.           ",
           "phone": "+84 235 3910 168",
           "website": "https://reachingoutvietnam.com",
           "times": "8:30 AM – 9:30 PM"
         },
         {
-          "name": "Hiệm vải Hoa Nắng",
+          "name": "Laine Lana          ",
           "loc": {
-            "lat": 15.8775449,
-            "long": 108.3293326
+            "lat": 11.950291
+            ,
+            "long": 108.463698
+
           },
-          "location": "9 Trần Phú, Cẩm Châu, Hội An, Quảng Nam, Việt Nam",
-          "image": "sunny_shop",
+          "location": "6 Lữ Gia, Phường 9, Dalat, Lâm Đồng          ",
+          "image": "Lana",
           "rating": "5.0",
           "peoplerated": "446",
-          "type": "Cửa hàng quần áo",
-          "desc": "Hiệu vải Hoa Nắng cung cấp quần áo nam và nữ được thiết kế riêng, bao gồm trang phục công sở, quần áo trang trọng, áo khoác mùa đông và các mặt hàng quần áo khác.",
+          "type": "Shop quần áo",
+          "desc":"shop quà tặng đem lại bình yên và ấm áp cho mọi người.          ",
           "phone": "+84 129 765 6275",
           "website": "",
           "times": "9:00 AM - 9:00 PM"
         },
         {
-          "name": "A Dong Silk Tailors",
+          "name": "Thế giới quà tặng          ",
           "loc": {
-            "lat": 15.8798636,
-            "long": 108.326232
+            "lat": 11.935832
+            ,
+            "long": 108.438474
+
           },
-          "location": "62 Trần Hưng Đạo, Phường Minh An, Hội An, Quảng Nam, Việt Nam",
-          "image": "a_dong_silk",
+          "location":"7 Nhà Chung, Phường 4, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "TG",
           "rating": "5.0",
           "peoplerated": "3690",
-          "type": "Cửa hàng quần áo",
-          "desc": "Được thành lập vào năm 1997, A Dong Silk là công ty hàng đầu trong lĩnh vực may riêng tại Việt Nam. Công ty đã giành được danh tiếng toàn cầu về phong cách và chất lượng cao trong lĩnh vực may mặc.",
+          "type": "Shop quần áo",
+          "desc":"TG GiftShop - Thế Giới Quà Tặng           ",
           "phone": "+84 235 3910 579",
           "website": "",
           "times": "8:00 AM - 9:30 PM"
@@ -493,166 +522,186 @@
       ]
     },
     "hotel": {
-      "title": "Khách sạn ở Hội An",
-      "desc": "Hội An có hàng loạt các khách sạn, nhà nghỉ tạo cho bạn sự thoải mái khi du lịch.",
+      "title": "Khách sạn ở Đà Lạt",
+      "desc": "Đà Lạt có hàng loạt các khách sạn, nhà nghỉ tạo cho bạn sự thoải mái khi du lịch.",
       "more_places": "HƠN 7+ ĐỊA ĐIỂM",
       "more_info": [
         {
-          "name": "Hội An Hippie House",
+          "name": "ZEN Valley Dalat          ",
           "loc": {
-            "lat": 15.9151322,
-            "long": 108.3326321
+            "lat": 11.931796
+            ,
+            "long": 108.459057
+
           },
-          "location": "Tổ 5, Khối An Bang, Cẩm An, Hội An, Quảng Nam, Việt Nam",
-          "image": "hippie",
+          "location":"38 Khe Sanh, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "ZenValley",
           "rating": "5.0",
           "peoplerated": "49",
           "type": "Khách sạn",
-          "desc": "Hội An Hippie House nằm trong làng chài nhỏ của Hội An, gần bãi biển An Bàng. Hippie bao gồm bốn phòng riêng thường và một phòng to.",
+          "desc":"nơi này là một viên đá quý. Nó nằm ở một phía rất đẹp của Đà Lạt. Tất cả đều an toàn, sạch sẽ và hoàn toàn đẹp. Có một cái nhìn ra một thung lũng đáng yêu đầy cây thông.          ",
           "phone": "+84 125 348 3356",
           "website": "http://thehippiehouse.vn",
           "star": "2"
         },
         {
-          "name": "Bamboo Homestay",
+          "name": "Biệt thự Hằng Nga          ",
           "loc": {
-            "lat": 15.8829458,
-            "long": 108.3462759
+            "lat": 11.934722
+            ,
+            "long": 108.430857
+
           },
-          "location": "Cẩm Châu, Hội An, Cẩm Châu, Việt Nam, Quảng Nam, Việt Nam",
-          "image": "bamboo",
+          "location":"3 Huỳnh Thúc Kháng, Phường 4, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "HangNga",
           "rating": "4.7",
           "peoplerated": "128",
           "type": "Khách sạn",
-          "desc": "Một sân sau yên tĩnh, một hồ bơi mát mẻ, một góc đọc sách yên tĩnh, và một tách cà phê nóng. Tại Bamboo Hội An Homestay, chúng tôi sẽ phục vụ tất cả các bạn.",
+          "desc":"Đây được cho là nơi độc đáo nhất mà người ta có thể ở lại. Các nhân viên rất thân thiện, và căn phòng ấm cúng. Phần tốt nhất là bạn có thể khám phá qua các tòa nhà trong khung cảnh yên tĩnh, trước hoặc sau khi khách du lịch đến thăm. Nhược điểm là 1. Trời quá tối trong phòng. 2. Nếu bạn tình cờ ở trong phòng của bạn trong giờ công cộng, khách truy cập sẽ cố gắng mở cửa của bạn sau mỗi 2 phút, điều này thực sự gây phiền nhiễu sau một thời gian. Tuy nhiên, bản thân việc ở lại là rất dễ chịu để đứng đầu các tiêu cực          ",
           "phone": "+84 235 6531 952",
           "website": "https://www.facebook.com/bamboohomestay/",
           "star": "2"
         },
         {
-          "name": "Almond Villa Hội An",
+          "name": "Khách sạn Dalat BackPackers          ",
           "loc": {
-            "lat": 15.8916071,
-            "long": 108.3117183
+            "lat": 11.936392
+            ,
+            "long": 108.441037
+
           },
-          "location": "230 Nguyễn Chí Thanh, Tân An, Hội An, Quảng Nam, Việt Nam",
-          "image": "almond",
+          "location":"11 Hà Huy Tập, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "Backpacker",
           "rating": "4.7",
           "peoplerated": "138",
           "type": "Khách sạn",
-          "desc": "Almond Villa có 9 phòng và hồ bơi ngoài trời, du khách có thể thưởng thức đồ uống tại quầy bar. Các phòng nghỉ tại đây được trang bị TV màn hình phẳng. Khu vườn và khu vực hồ bơi rất đẹp và các phòng rộng rãi và sạch sẽ, bữa sáng tuyệt vời. Nhân viên rất thân thiện và nhiệt tình,dịch vụ chuyên nghiệp. Wi-Fi có sẵn, có xe đạp và chỗ đỗ xe miễn phí.",
+          "desc":"Chuyến đi tuyệt vời 100%, một ngày tuyệt vời với hướng dẫn viên du lịch tuyệt vời cung cấp nhiều thông tin thú vị và dừng lại và thể hiện nhiều điều không chỉ là thác nước, sẽ giới thiệu cho mọi người, ngày tốt nhất ở Việt Nam cho đến nay          ",
           "phone": "+84 90 513 14 20",
           "website": "",
           "star": "2"
         },
         {
-          "name": "Biệt thự Gia Lâm Hội An",
+          "name": "Khách sạn Đà Lạt Sky          ",
           "loc": {
-            "lat": 15.8828023,
-            "long": 108.3435827
+            "lat": 11.949316
+            ,
+            "long": 108.438483
+
           },
-          "location": "Lý Thường Kiệt - Trần Nhân Tông, Sơn Phong, Cẩm Châu, Hội An, Quảng Nam, Việt Nam",
-          "image": "gialam",
+          "location": "27 Võ Thị Sáu, Phường 2, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "Sky",
           "rating": "4.7",
           "peoplerated": "255",
           "type": "Khách sạn",
-          "desc": "Biệt thự Gia Lâm nằm ở một vị trí thích hợp với giá phòng phù hợp. Đây là một địa điểm thích hợp cho gia đình và công ty.",
-          "phone": "+84 235 3923 791",
-          "website": "https://vi-vn.facebook.com/GIA-L%C3%82M-Villa-243449476123462/",
+          "desc": "Nhà trọ sạch sẽ và thân thiện. Bữa tối gia đình rất vui. Vị trí trung tâm, giường thoải mái và wifi tốt. Nổi bật là đội ngũ nhân viên rất niềm nở và hữu ích. Chúng tôi đã đi qua nơi họ cung cấp dịch vụ dọn dẹp miễn phí và dịch vụ dọn dẹp. Bia giá rẻ (15k) và đặt taxi của chúng tôi đến sân bay mà chúng tôi trả trước để tránh ký túc xá. Bắn súng lớn cho tất cả các nhân viên! Rất khuyến khích!          ",
+          "phone": "0235 3923 791",
+          "website":"https://vi-vn.facebook.com/GIA-L%C3%82M-Villa-243449476123462/",
           "star": "3"
         },
         {
-          "name": "Khu nghỉ dưỡng Victoria Hội An Beach",
+          "name": "Tiny Tigers Hotel          ",
           "loc": {
-            "lat": 15.8954195,
-            "long": 108.3696932
+            "lat": 11.938332
+            ,
+            "long": 108.432029
+
           },
-          "location": "Âu Cơ, Biển Cửa Đại, Hội An, Quảng Nam",
-          "image": "victoria",
+          "location": "77 Đoàn Thị Điểm, Phường 4, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "Tiger",
           "rating": "4.5",
           "peoplerated": "2429",
           "type": "Khách sạn",
-          "desc": "Khu nghỉ dưỡng & Spa Victoria Hội An bao gồm 109 phòng tiện nghi với phong cách kết hợp giữa kiến trúc Việt Nam truyền thống, phong cách Nhật Bản và kiến trúc Pháp cổ, cùng với nét tinh tế trong các hoạ tiết đặc trưng của Hội An. Điểm nhấn của khu nghỉ dưỡng là bể bơi vô cực với tầm nhìn hướng biển, một nơi lý tưởng để nghỉ ngơi và thư giãn khi nhấm nháp một ly cocktail trên tay.",
-          "phone": "+84 235 3927 040",
-          "website": "https://www.victoriahotels.asia/vi/hotels-resorts/hoian.html",
+          "desc":"Tuyệt vời ở lại nhân viên tuyệt vời. Leo chủ sở hữu là một trong những loại anh ấy rất thân thiện với gia đình ký túc xá. Tour xe đạp của Leo rất khuyến khích. Hostel thực sự sạch sẽ thoải mái giường thoải mái chăn mềm mịn, WiFi tốt, vòi sen đẹp          ",
+          "phone": "+ 84 235 3927 040",
+          "website":"https://www.victoriahotels.asia/vi/hotels-resorts/hoian.html",
           "star": "3"
         },
         {
-          "name": "Khu nghỉ dưỡng Ancient House Village",
+          "name": "khách sạn Sammy Dalat          ",
           "loc": {
-            "lat": 15.8819123,
-            "long": 108.3452566
+            "lat": 11.93438
+            ,
+            "long": 108.431668
+
           },
-          "location": "Cẩm Thanh, Hội An, Quảng Nam, Việt Nam",
-          "image": "ancient",
+          "location": "1 Lê Hồng Phong, Phường 4, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "Sammy",
           "rating": "4.5",
           "peoplerated": "1166",
           "type": "Khách sạn",
-          "desc": "Hoi An Ancient House Village Resort & Spa có bồn tắm nước nóng, hồ bơi ngoài trời, trung tâm thể dục và khu vườn xanh tươi tốt. Khách sạn phục vụ miễn phí cho khách trái cây hàng ngày, bãi đậu xe tại chỗ miễn phí và Wi-Fi miễn phí trong toàn bộ khuôn viên.",
+          "desc":"Thật lãng mạn và quyến rũ. Tôi yêu phong cách và sự sang trọng. Các nhân viên rất đáng yêu và bữa ăn sáng là tốt. Chúng tôi có thể dễ dàng đi bộ đến chợ đêm thật tuyệt. DaLat là một nơi tuyệt đẹp mà tôi sẽ vui vẻ trở lại.          ",
           "phone": "+84 235 3923 791",
           "website": "http://ancienthousevillage.com/vn/home.html",
           "star": "4"
         },
         {
-          "name": "Khu nghỉ dưỡng Anantara Hội An",
+          "name": "Khách sạn Sapinette          ",
           "loc": {
-            "lat": 15.8772501,
-            "long": 108.3346723
+            "lat": 11.952145
+            ,
+            "long": 108.468657
+
           },
-          "location": "1 Phạm Hồng Thái, Cẩm Châu, Hội An, Quảng Nam, Việt Nam",
-          "image": "anantara",
+          "location": "1 Phan Chu Trinh, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "Sapinette",
           "rating": "4.5",
           "peoplerated": "2223",
           "type": "Khách sạn",
-          "desc": "Nằm ở vị trí tuyệt đẹp bên bờ Sông Thu Bồn, Anantara Hội An Resort là một nơi nghỉ dưỡng duyên dáng trong thành phố cảng Hội An mang đậm dấu ấn lịch sử. Thiết kế theo phong cách kiến trúc Pháp, Hà Lan, Trung Quốc và Nhật Bản thể hiện sự đa dạng trong văn hoá của Hội An, các phòng mở ra hành lang với những giường nghỉ thoải mái, nhìn ra sông hay sân vườn.",
+          "desc":"nó là một nơi tốt đẹp để thư giãn và tận hưởng, nhưng nó khá xa chợ đêm và khu vực trung tâm. Các nhân viên khá thân thiện và hữu ích nhưng họ không đủ chuyên nghiệp cho một khách sạn 4 sao. Các bữa ăn sáng là nghèo, đặc biệt là đồ uống. Tóm lại, chúng tôi rất thích và thực sự thích căn phòng chúng tôi ở          ",
           "phone": "+84 235 3914 555",
           "website": "https://www.anantara.com/",
           "star": "5"
         },
         {
-          "name": "Khách sạn Hội An Historic",
+          "name": "Monet Garden Villa          ",
           "loc": {
-            "lat": 15.8799909,
-            "long": 108.3286832
+            "lat": 11.94504
+            ,
+            "long": 108.459442
+
           },
-          "location": "10 Trần Hưng Đạo, Sơn Phong, Hội An, Quảng Nam, Việt Nam",
-          "image": "historic",
+          "location":"3 Nguyễn Du, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "Monet",
           "rating": "4.0",
           "peoplerated": "1841",
-          "type": "Khách sạn",
-          "desc": "Được thành lập vào năm 1991, Hoi An Historic nổi tiếng với vị trí lý tưởng, nét duyên dáng và tiện nghi đẳng cấp thế giới. Du khách có thể đến bãi biển Cửa Đại tuyệt đẹp, cách 4km về phía Đông, bằng cách lên xe đưa đón chạy trong 15 phút.",
+          "type": "Biệt thự",
+          "desc":"Monet Gardens là một bộ sưu tập các biệt thự thuộc địa của Pháp được tân trang lại theo tiêu chuẩn 4 sao +, nằm trong khuôn viên được bảo quản tốt không xa nhà ga cũ và khoảng (2km) 10 phút đi taxi vào trung tâm chợ Đà Lạt. Phòng gia đình được bổ nhiệm theo phong cách cổ điển. Nhà hàng lớn và phòng cưới / hội nghị. Xây dựng nhà nhỏ hơn Cafe / Bar. Nhân viên thân thiện          ",
           "phone": "+84 235 3861 445",
           "website": "http://www.hoianhistorichotel.com.vn/",
           "star": "4"
         },
         {
-          "name": "Khu nghỉ dưỡng Vĩnh Hưng",
+          "name": "Khách sạn Marguerite          ",
           "loc": {
-            "lat": 15.8741664,
-            "long": 108.3222952
+            "lat": 11.941278
+            ,
+            "long": 108.436443
+
           },
-          "location": "111 Ngô Quyền, Hội An, Quảng Nam, Việt Nam",
-          "image": "vinhhung",
+          "location": "30 Nguyễn Chí Thanh, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "Marguerite",
           "rating": "4.5",
           "peoplerated": "1913",
           "type": "Khách sạn",
-          "desc": "Với các loại hình khách sạn khác nhau của chúng tôi cung cấp những tiện nghi và dịch vụ để đáp ứng nhu cầu cá nhân của bạn.",
+          "desc":"Khách sạn khá đẹp. Giữa đường. Nhưng với khoảng cách đi bộ đến tất cả mọi thứ. Gặp chủ. Rất hoan nghênh người Mỹ. Quán cà phê thậm chí còn tốt hơn trên đường phố và cũng rất chào đón người Mỹ và nói tiếng Anh          ",
           "phone": "+84 235 3910 393",
           "website": "http://www.vinhhunghotels.com.vn/about-us.html",
           "star": "3"
         },
         {
-          "name": "Khu nghỉ dưỡng Marina Resort &Spa",
+          "name": "Khách sạn Ngọc Phát          ",
           "loc": {
-            "lat": 15.874499,
-            "long": 108.3200414
+            "lat": 11.937538
+            ,
+            "long": 108.443873
+
           },
-          "location": "567 Hai Bà Trưng, Hội An, Quảng Nam, Việt Nam",
-          "image": "silk",
+          "location":"10 Hồ Tùng Mậu, Phường 3, Thành phố Đà Lạt, Lâm Đồng          ",
+          "image": "NgocPhat",
           "rating": "5.0",
           "peoplerated": "2001",
           "type": "Khách sạn",
-          "desc": "Thu mình trong vẻ đẹp thơ mộng ngay trung tâm phố cổ Hội An, toạ lạc trên bờ sông Thu Bồn yên ả, Hội An Silk Marina Resort & Spa là khu du lịch nghỉ dưỡng cao cấp và lý tưởng để chiêm ngưỡng trọn vẹn vẻ đẹp lung linh, rực rỡ của “thành phố đèn lồng”. Không gian kiến trúc độc đáo mang cảm hứng thiết kế Đông Tây hài hoà và tinh tế, cùng cơ sở vật chất hiện đại, dịch vụ nghỉ dưỡng cao cấp, hoàn toàn có thể đáp ứng mọi nhu cầu và mong muốn của bạn về một resort sang trọng, tiện nghi và đẳng cấp.",
+          "desc":"Vị trí của khách sạn là tốt nhất ở dalat. Tất cả các cơ sở là như thời thuộc địa. Các căn cứ xung quanh khách sạn là tuyệt đẹp. Nhờ những thứ đang làm một công việc tuyệt vời. Bữa sáng tuyệt vời          ",
           "phone": "+84 235 3938 888",
           "website": "http://hoiansilkmarina.com",
           "star": "4"
