@@ -243,6 +243,7 @@ export default class MapScreen extends PureComponent {
             this.goToLocation(this.state.slideIndex)
           })
         }}
+	showsUserLocation
       >
         {this.state.markers.map(marker => (
           <MapView.Marker
