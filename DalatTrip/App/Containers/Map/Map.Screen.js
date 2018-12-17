@@ -1,4 +1,4 @@
-import React, { PureComponent } from 'react'
+import React, { PureComponent } from 'react';
 import {
   Dimensions,
   Text,
@@ -7,20 +7,22 @@ import {
   BackHandler,
   TouchableOpacity,
   NetInfo, Platform
-} from 'react-native'
-import { Images } from '../../Themes/index'
-import styles from './Map.Styles'
-import MapView from 'react-native-maps'
-import AppStatusBar from '../../Components/AppStatusBar/AppStatusBar.View'
-import BackButton from '../../Components/BackButton/BackButton.View'
-import Carousel from 'react-native-snap-carousel'
-import I18n from '../../I18n/'
-import geolib from 'geolib'
+} from 'react-native';
+import { Images } from '../../Themes/index';
+import styles from './Map.Styles';
+import MapView from 'react-native-maps';
+import AppStatusBar from '../../Components/AppStatusBar/AppStatusBar.View';
+import BackButton from '../../Components/BackButton/BackButton.View';
+import Carousel from 'react-native-snap-carousel';
+import I18n from '../../I18n/';
+import geolib from 'geolib';
+import MapViewDirections from 'react-native-maps-directions';
+import Polyline from '@mapbox/polyline';
 
 export default class MapScreen extends PureComponent {
   state: State = {
     region: {
-      latitude: 15.86,
+      latitude: 11.86,
       longitude: 108.333,
       latitudeDelta: 0.0922,
       longitudeDelta: 0.0421
@@ -75,7 +77,8 @@ export default class MapScreen extends PureComponent {
     ],
     isReady: false,
     isNetOk: true,
-    isMapReady: false
+    isMapReady: false,
+    coords: []
   }
 
   handleConnectivityChange = (connectionInfo) => {
@@ -104,6 +107,7 @@ export default class MapScreen extends PureComponent {
         }
       }
     })
+
 
     NetInfo.addEventListener(
       'connectionChange',
@@ -157,6 +161,28 @@ export default class MapScreen extends PureComponent {
       ? dist.toString() + ','
       : Math.floor(dist / 1000).toString() + 'km'
   }
+
+  //draw path
+//   async getDirections(startLoc, destinationLoc) {
+//     try {
+//         let resp = await fetch(`https://maps.googleapis.com/maps/api/directions/json?origin=${ startLoc }&destination=${ destinationLoc }`)
+//         let respJson = await resp.json();
+//         let points = Polyline.decode(respJson.routes[0].overview_polyline.points);
+//         let coords = points.map((point, index) => {
+//             return  {
+//                 latitude : point[0],
+//                 longitude : point[1]
+//             }
+//         })
+//         this.setState({coords: coords})
+//         return coords
+//     } catch(error) {
+//         alert(error)
+//         return error
+//     }
+// }
+
+
 
   _renderItem ({item, index}) {
     return (
@@ -243,7 +269,7 @@ export default class MapScreen extends PureComponent {
             this.goToLocation(this.state.slideIndex)
           })
         }}
-	showsUserLocation
+        showsUserLocation
       >
         {this.state.markers.map(marker => (
           <MapView.Marker
@@ -258,6 +284,55 @@ export default class MapScreen extends PureComponent {
     )
 
   }
+ 
+  
+
+  // _renderMap = () => {
+
+  //   return (
+  //     <MapView
+  //       style={styles.map}
+  //       initialRegion={this.state.region}
+  //       loadingEnabled={true}
+  //       ref={ref => (this.map = ref)}
+  //       onMapReady={() => {
+  //         this.setState({isMapReady: true}, () => {
+  //           this.goToLocation(this.state.slideIndex)
+  //         })
+  //       }}
+  //       showsUserLocation
+  //     >
+  //       {this.state.markers.map(marker => (
+  //         <MapView.Marker
+  //           key={marker.key}
+  //           coordinate={marker.coordinate}
+  //           title={marker.title}
+  //           description={marker.subtitle}
+  //           ref={ref => (this.mapmarkers = ref)}
+  //         />
+  //       ))}
+  //       {!!this.state.latitude && !!this.state.longitude && <MapView.Marker
+  //         coordinate={{"latitude":this.state.latitude,"longitude":this.state.longitude}}
+  //         title={"Your Location"}
+  //       />}
+ 
+  //       {!!this.state.cordLatitude && !!this.state.cordLongitude && <MapView.Marker
+  //          coordinate={this.state.markers}
+  //          title={"Your Destination"}
+  //        />}
+  //        {!!this.state.latitude && !!this.state.longitude && this.state.x == 'error' && <MapView.Polyline
+  //        coordinates={[
+  //            {latitude: this.state.latitude, longitude: this.state.longitude},
+  //            {latitude: this.state.cordLatitude, longitude: this.state.cordLongitude},
+  //        ]}
+  //        strokeWidth={2}
+  //        strokeColor="red"/>
+  //       }
+  //     </MapView>
+  //   )
+  // }
+ 
+  
 
   goToLocation = slideIndex => {
     let dataSource = this.state.entries[this.state.categoryId].more_info
