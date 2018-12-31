@@ -51,7 +51,6 @@ class HomeView extends Component {
               (
                 this.state.error?<Error/>:
                   <ScrollView>
-                    <CityItem city={{}} key={0} event={this.getHotels} />
                     {this.state
                       .cities
                       .map((city) => (
