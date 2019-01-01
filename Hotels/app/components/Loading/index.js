@@ -8,7 +8,6 @@ export default class Loading extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <Icon name="more-horizontal" size={100} color={constants.PRIMARY_TEXT_COLOR} />
         <Text style={styles.text}>Loading</Text>
       </View>
     );

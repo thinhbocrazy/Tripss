@@ -5,7 +5,7 @@ export default class HeaderLogo extends Component {
   render() {
     return (
       <Image
-        source={require('../../assets/otel-logo.png')}
+        source={require('../../assets/Stay.png')}
         style={{ width: 55.05, height: 26, resizeMode: 'stretch' }}
       />
     );

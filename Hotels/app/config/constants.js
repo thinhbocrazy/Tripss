@@ -9,4 +9,3 @@ export default {
   PROFILE_AVATAR: 'https://i.pinimg.com/originals/d4/82/57/d48257401dd85728f031ead0a7f0e758.jpg',
   MAPS_KEY: 'AIzaSyC7fVHv1AE25k1U027so7ONPPW5fpNa1tw'
 }
-//MAPS_KEY: 'AIzaSyBeqXhZV4hLY-H6coZSQv3c7qwtbjsba6E'
