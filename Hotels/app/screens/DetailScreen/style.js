@@ -73,6 +73,12 @@ export default StyleSheet.create({
   bookingButton: {
     fontSize: 23,
     color: constants.PRIMARY_TEXT_COLOR,
-    fontFamily: 'Avenir'
+    fontFamily: 'Avenir',
+    backgroundColor: constants.PRIMARY_BG_COLOR,
+    borderRadius: 0,
+    justifyContent: 'center',
+    alignItems: 'center',
+    height: 60
+
   }
 });

@@ -96,12 +96,7 @@ class DetailView extends Component {
                   <Text style={styles.label}></Text>
                 </View>
               </ScrollView>
-              <Icon.Button name="shopping-cart" backgroundColor={constants.PRIMARY_BG_COLOR}
-                           color={constants.PRIMARY_TEXT_COLOR} borderRadius={0} justifyContent={'center'}
-                           alignItems={'center'} height={60}
-                           onPress={()=>{alert('Booking feature not working yet')}}>
-                <Text style={styles.bookingButton}>Booking Now</Text>
-              </Icon.Button>
+                <Text style={styles.bookingButton} onPress={()=>{alert('Booking feature not working yet')}}>Booking Now</Text>
             </View>):
             <LoadingDetail/>
         }
