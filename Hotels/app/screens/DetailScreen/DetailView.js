@@ -76,6 +76,9 @@ class DetailView extends Component {
                   <Text style={styles.label}>About</Text>
                   <Text style={[styles.value, styles.description]}>{hotel.description}</Text>
                 </View>
+                <View style={styles.field}>
+                  <Text style={styles.label}></Text>
+                </View>
                 <View style={styles.location}>
                   <Text style={[styles.label,{paddingLeft:20}]}>Location</Text>
                     <Text style={styles.value}>{hotel.address}</Text>

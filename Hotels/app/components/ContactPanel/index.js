@@ -10,15 +10,9 @@ export default class Contact extends Component {
     const marginTop = -4;
     return (
       <View>
-        <Icon.Button name="globe" backgroundColor="transparent" color={fontColor}  marginTop={marginTop}>
-          <Text style={styles.value}>{hotel.website}</Text>
-        </Icon.Button>
-        <Icon.Button name="mail" backgroundColor="transparent" color={fontColor}  marginTop={marginTop}>
-          <Text style={styles.value}>{hotel.email}</Text>
-        </Icon.Button>
-        <Icon.Button name="phone" backgroundColor="transparent" color={fontColor}  marginTop={marginTop}>
-          <Text style={styles.value}>{hotel.phone}</Text>
-        </Icon.Button>
+          <Text style={styles.value}>>Website: {hotel.website}</Text>
+          <Text style={styles.value}>>Email: {hotel.email}</Text>
+          <Text style={styles.value}>>Phone: {hotel.phone}</Text>
       </View>
     );
   }
