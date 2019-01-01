@@ -77,16 +77,6 @@ class DetailView extends Component {
                   <Text style={styles.small}>{hotel.images.length} photos</Text>
                 </Icon.Button>
                 <Text style={styles.name}>{hotel.name}</Text>
-                <View style={[styles.field, styles.rating]}>
-                  <StarRating
-                    disabled={true}
-                    maxStars={5}
-                    rating={hotel.stars}
-                    fullStarColor={constants.PRIMARY_BG_COLOR}
-                    emptyStarColor={constants.PRIMARY_BG_COLOR}
-                    starSize={25}
-                  />
-                </View>
                 <View style={styles.about}>
                   <Text style={styles.label}>About</Text>
                   <Text style={[styles.value, styles.description]}>{hotel.description}</Text>
