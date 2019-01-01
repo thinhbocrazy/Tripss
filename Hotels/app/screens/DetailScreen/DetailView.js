@@ -1,11 +1,9 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { View, ScrollView, StatusBar, Text, Dimensions, Image } from 'react-native';
-import StarRating from 'react-native-star-rating';
 import constants from '../../config/constants';
 import { ShareButton, Amenities, Contact, LoadingDetail, ErrorDetail } from '../../components';
 import Icon from 'react-native-vector-icons/Feather';
-import GoogleStaticMap from 'react-native-google-static-map';
 import Carousel from 'react-native-snap-carousel';
 import styles from './style.js';
 const { width } = Dimensions.get('window');
@@ -72,10 +70,7 @@ class DetailView extends Component {
                     activeAnimationType={'spring'}
                   />
                 </View>
-                <Icon.Button name="image" backgroundColor="transparent" color={fontColor} size={15}
-                             justifyContent={'flex-end'} alignItems={'center'}>
-                  <Text style={styles.small}>{hotel.images.length} photos</Text>
-                </Icon.Button>
+                  <Text style={styles.small} >{hotel.images.length} photos</Text>
                 <Text style={styles.name}>{hotel.name}</Text>
                 <View style={styles.about}>
                   <Text style={styles.label}>About</Text>
@@ -83,11 +78,8 @@ class DetailView extends Component {
                 </View>
                 <View style={styles.location}>
                   <Text style={[styles.label,{paddingLeft:20}]}>Location</Text>
-                  <Icon.Button name="map-pin" backgroundColor="transparent" color={fontColor}
-                               marginTop={marginTop} paddingLeft={20} paddingRight={20}>
                     <Text style={styles.value}>{hotel.address}</Text>
-                  </Icon.Button>
-                  <Text style={[styles.value,{paddingLeft:50, marginTop:-10}]}>{hotel.city}, {hotel.country}</Text>
+                  <Text style={[styles.value,{paddingLeft:70, marginTop:-10}]}>{hotel.city}, {hotel.country}</Text>
                 </View>
                 <View style={styles.field}>
                   <Text style={styles.label}>Amenities</Text>
@@ -104,7 +96,7 @@ class DetailView extends Component {
               <Icon.Button name="shopping-cart" backgroundColor={constants.PRIMARY_BG_COLOR}
                            color={constants.PRIMARY_TEXT_COLOR} borderRadius={0} justifyContent={'center'}
                            alignItems={'center'} height={60}
-                           onPress={()=>{alert('Booking feature not included on this technical-test')}}>
+                           onPress={()=>{alert('Booking feature not working yet')}}>
                 <Text style={styles.bookingButton}>Booking Now</Text>
               </Icon.Button>
             </View>):
