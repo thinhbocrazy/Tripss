@@ -98,15 +98,6 @@ class DetailView extends Component {
                     <Text style={styles.value}>{hotel.address}</Text>
                   </Icon.Button>
                   <Text style={[styles.value,{paddingLeft:50, marginTop:-10}]}>{hotel.city}, {hotel.country}</Text>
-                  <View style={styles.mapView}>
-                    <GoogleStaticMap
-                      latitude={(hotel.latitude || 0) + ''}
-                      longitude={(hotel.longitude || 0) + ''}
-                      zoom={14}
-                      size={{ width, height: 300 }}
-                      apiKey={constants.MAPS_KEY}
-                    />
-                  </View>
                 </View>
                 <View style={styles.field}>
                   <Text style={styles.label}>Amenities</Text>
