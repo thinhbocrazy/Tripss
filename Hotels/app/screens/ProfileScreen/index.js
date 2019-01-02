@@ -15,7 +15,7 @@ export default class Detail extends Component{
       <View style={styles.container}>
         <ImageBackground source={{uri: constants.DEFAULT_HOTEL_IMG}} style={styles.backgroundImage}>
           <View style={styles.header}>
-            <Image source={{uri: constants.PROFILE_AVATAR}} style={styles.avatar}></Image>
+            <Image source={require('../../assets/PROFILE_AVATAR.jpg')} style={styles.avatar}></Image>
             <Text style={styles.name}>Trí</Text>
               <Text style={styles.location}>HCMC</Text>
           </View>
