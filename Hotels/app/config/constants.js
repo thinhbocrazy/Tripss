@@ -1,6 +1,6 @@
 export default {
   API_URL: 'https://rest-hotels-api.herokuapp.com/v1',
-  PRIMARY_BG_COLOR: '#262673',
+  PRIMARY_BG_COLOR: '#262673',  //38 38 115
   PRIMARY_TEXT_COLOR: '#e6e6ff',
   SECONDARY_BG_COLOR: '#F5FCFF',
   BAR_STYLE:'light-content',
