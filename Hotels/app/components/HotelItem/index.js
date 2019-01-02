@@ -12,16 +12,7 @@ const HotelItem = ({ hotel, event }) => (
         <View style={styles.listitem}>
           <Text style={styles.price}>USD {hotel.price} per night</Text>
           <Text style={styles.title}>{hotel.name}</Text>
-          <View style={styles.subtitle}>
-            <StarRating
-              disabled={true}
-              maxStars={5}
-              rating={hotel.stars}
-              fullStarColor={'#00ace6'}
-              emptyStarColor={'#e6f9ff'}
-              starSize={25}
-            />
-          </View>
+            <Text style={styles.subtitle}>Star rating: {hotel.stars}</Text>
         </View>
       </ImageBackground>
     </View>

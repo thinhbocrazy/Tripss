@@ -25,7 +25,11 @@ export default StyleSheet.create({
     fontFamily: 'Avenir'
   },
   subtitle: {
-    marginBottom: 4
+    fontSize: 18,
+    marginBottom: 4,
+    color: '#86C6AC',
+    fontWeight: '800',
+    fontFamily: 'Avenir'
   },
   backgroundImage: {
     justifyContent: 'center',
