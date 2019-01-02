@@ -48,22 +48,6 @@ class HotelsView extends Component {
     return (
       <View  style={{ backgroundColor: constants.PRIMARY_BG_COLOR, width, height:(height-45) }}>
         <StatusBar barStyle={constants.BAR_STYLE}/>
-        <SearchBar
-          ref={(ref) => this.props.navigation.searchBar = ref}
-          data={this.state.allHotels}
-          handleResults={(results)=>{
-            this.setState({ hotels: results });
-          }}
-          textColor={constants.PRIMARY_BG_COLOR}
-          iconColor={constants.PRIMARY_BG_COLOR}
-          iOSPadding={false}
-          fontFamily={'Avenir'}
-          allDataOnEmptySearch={true}
-          fontSize={23}
-          backgroundColor={constants.SECONDARY_BG_COLOR}
-          hideBack={true}
-          heightAdjust={-5}
-        />
         {
           (this.state.completed)?
             (this.state.error?
